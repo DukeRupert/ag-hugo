@@ -1,8 +1,8 @@
 ---
 title: The Priory Vault - 10 Homebrewed Artifacts for 5e
 description: A collection of custom artifacts for D&D 5e campaigns, including unique weapons, armor, and magical items with detailed progression systems
-slug: priory-vault-dnd-artifacts
-date: 2025-02-07 00:00:00+0000
+slug: the-priory-vault-10-homebrewed-artifacts-for-5e
+date: 2023-12-23 00:00:00+0000
 categories:
     - D&D
     - Tabletop Gaming
@@ -16,8 +16,7 @@ tags:
 weight: 1
 ---
 
-Guide The Priory Vault - 10 Homebrewed Artifacts for 5e
-=======================================================
+# Guide The Priory Vault - 10 Homebrewed Artifacts for 5e
 
 Below is an inventory of artifacts collected by the Ordo Prioratus Aequatoris, called the Knights of the Priory. These are items I designed for my tabletop 5e D&D adventure In the Bleak Midwinter.
 

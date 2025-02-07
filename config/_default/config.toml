@@ -1,7 +1,8 @@
 # Change baseurl before deploy
-baseurl = "https://demo.stack.jimmycai.com"
+baseurl = "https://www.aestusguides.com"
 languageCode = "en-us"
-title = "Hugo Theme Stack Starter"
+title = "Aestus Guides - Memoirs of a CRPG Sage"
+description = "Deep dives into classic & modern computer RPGs, featuring advanced guides, system analysis, and tactical insights from a veteran of the Baldur's Gate series and beyond."
 
 # Theme i18n support
 # Available values: en, fr, id, ja, ko, pt-br, zh-cn, zh-tw, es, de, nl, it, th, el, uk, ar

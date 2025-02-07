@@ -2,7 +2,7 @@
 title: "Baldur's Gate 3 Race Tier List Guide"
 description: "A comprehensive ranking and analysis of the best races in Baldur's Gate 3, examining unique racial features and their impact on character builds"
 slug: baldurs-gate-3-race-tier-list
-date: 2025-02-07 00:00:00+0000
+date: 2023-09-19 00:00:00+0000
 image: tier_list.png 
 categories:
    - Gaming
