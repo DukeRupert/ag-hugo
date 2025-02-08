@@ -282,9 +282,10 @@ I will say it again in case you skipped the intro, if you are thinking “I can 
 
 **RP Tier:** For those special weapons that just don’t work. Don’t use these weapons for any purpose other than role-playing.
 
-![Absolute's Warboard_BG3](https://cdn.sanity.io/images/si39ve47/production/a847bed635e7f60f097998bf37a97c0273fae9ff-150x150.png?w=150&auto=format)
 
 ### Absolute's Warboard - B Tier
+
+![Absolute's Warboard](/items/absolutes_warboard.png)
 
 Weapon Type: Shield
 
@@ -292,9 +293,10 @@ The Word of the Absolute: This is an activatable ability that refreshes on a sho
 
 Patch 7 nerfed this item into oblivion. Before this patch I was saying it was the strongest item in the game, and now I struggle to get any value out of it at all. I am provisionally ranking it as a B-tier until I can better test the Word of the Absolute, because it isn't functioning the way it used to.
 
-![Adamantine Longsword_BG3](https://cdn.sanity.io/images/si39ve47/production/d939cd2a4fde106ab7d257025162bc2f2d32f7a3-150x150.png?w=150&auto=format)
 
 ### Adamantine Longsword - B Tier
+
+![Adamantine Longsword](/items/adamantine_longsword.png)
 
 Weapon Type: Longsword
 
@@ -304,9 +306,10 @@ Note: there is no saving throw to resist the reeling condition. A reeling target
 
 All of the Adamantine weapons are identical in effect, so I will use the same review for all of them. Reeling is fine. It's just fine. You can count on this weapon, I just prefer my weapons to do damage.
 
-![Adamantine Mace_BG3](https://cdn.sanity.io/images/si39ve47/production/abac72db573dc379a21e6a7ee9d7899af81a3de2-150x150.png?w=150&auto=format)
 
 ### Adamantine Mace - B Tier
+
+![Adamantine Mace](/items/adamantine_mace.png)
 
 Weapon Type: Mace
 
@@ -316,9 +319,10 @@ Note: there is no saving throw to resist the reeling condition. A reeling target
 
 All of the Adamantine weapons are identical in effect, so I will use the same review for all of them. Reeling is fine. Its just fine. You can count on this weapon, I just prefer my weapons to do damage.
 
-![Adamantine Scimitar_BG3](https://cdn.sanity.io/images/si39ve47/production/2d0498267dc9a9d4fb5898813a15193b536c68d5-150x150.png?w=150&auto=format)
 
 ### Adamantine Scimitar - B Tier
+
+![Adamantine Scimitar](/items/adamantine_scimitar.png)
 
 Weapon Type: Scimitar
 
@@ -328,9 +332,10 @@ Note: there is no saving throw to resist the reeling condition. A reeling target
 
 All of the Adamantine weapons are identical in effect, so I will use the same review for all of them. Reeling is fine. Its just fine. You can count on this weapon, I just prefer my weapons to do damage.
 
-![Blooded Greataxe_BG3](https://cdn.sanity.io/images/si39ve47/production/83a729b4e2b46439b9d9f57999a8a1631287bced-150x150.png?w=150&auto=format)
 
 ### Blooded Greataxe - B Tier
+
+![Blooded Greataxe](/items/blooded_greataxe.png)
 
 Weapon Type: Greataxe
 
@@ -338,9 +343,10 @@ Relentless Revenge: When the wielder has 50% hit points or less, they deal an ad
 
 This effect is honestly pretty good, since martials are incentivized by other items to flirt with the 50% HP line anyways. Greataxe’s also get the very fun Prepare weapon action. Its big issue is that heavy, two-handed weapons that do slashing damage are a stacked category, so this axe ends up way down the list.
 
-![Club_BG3](https://cdn.sanity.io/images/si39ve47/production/0b58c90ba442a5c3fb1094dbe003a4fb537bf04d-150x150.png?w=150&auto=format)
 
 ### Club of Hill Giant Strength - B Tier
+
+![Club](/items/club.png)
 
 Weapon Type: Club
 
@@ -348,9 +354,10 @@ Splinter’s of a Giant’s Might: While wielding this weapon, the user’s stre
 
 Its not good enough to be A-tier, but I use it on a lot of my runs. Its good to give to Wyll, since he only has a +1 modifier in both strength and dexterity. Mostly I just love the convenience of the carry weight boost on a weak party member!
 
-![Corellon's Grace_BG3](https://cdn.sanity.io/images/si39ve47/production/5b4ad7db32fdbaabbdc4646c71758c620a5bf96d-150x150.png?w=150&auto=format)
 
 ### Corellon's Grace - A Tier
+
+![Corellon's Grace](/items/corellons_grace.png)
 
 Weapon Type: Staff
 
@@ -360,9 +367,10 @@ Note: The tooltip says “if they get attack while not wearing armor…” but t
 
 This is for your backline magic user to hold. The effect stacks with Bless, giving you, on average, a +5 to your saving throws. That is obviously amazing, but you have to risk losing your saving throw to get it. I prefer to just hide and not risk getting hit while I am concentrating and use a weapon that gives me a more proactive ability. Nevertheless, I can’t deny that this weapon is good.
 
-![Deep Delver_BG3](https://cdn.sanity.io/images/si39ve47/production/8f2eb860f5f89cb4b98b49ed1a299a2d25135cf6-150x150.png?w=150&auto=format)
 
 ### Deep Delver - B Tier
+
+![Deep Delver](/items/deep_delver.png)
 
 Weapon Type: Warpick
 
@@ -370,9 +378,10 @@ Dig Deep: Inflicts a condition on hit which lasts for three rounds, no save. Hit
 
 This is a very underwhelming item by the time you get it. It gives a little more damage on consecutive hits. Just pass. If you want to use a warpick, go for a generic +1 version.
 
-![Doom Axe_BG3](https://cdn.sanity.io/images/si39ve47/production/83a729b4e2b46439b9d9f57999a8a1631287bced-150x150.png?w=150&auto=format)
 
 ### Doom Axe - C Tier
+
+![Doom Axe](/items/doom_axe.png)
 
 Weapon Type: Greataxe
 
@@ -380,9 +389,10 @@ Edge of Terror: Hits inflict a status condition that prevent the target from reg
 
 It is offering an effect you can already get from a cantrip. Pass.
 
-![Dragon's Grasp_BG3](https://cdn.sanity.io/images/si39ve47/production/9fcb4d41bc7ab088c087cf63992ca7c4fb036827-150x150.png?w=150&auto=format)
 
 ### Dragon's Grasp - C Tier
+
+![Dragon's Grasp](/items/dragons_grasp.png)
 
 Weapon Type: Handaxe
 
@@ -390,9 +400,10 @@ Burned Alive: Deals an additional 1d4 slashing damage to burning targets.
 
 Its low damage and very situational, so not worth more words than this.
 
-![Everburn_BG3](https://cdn.sanity.io/images/si39ve47/production/199042f86630a4701dc0c860aa2503fc619caf8b-150x150.png?w=150&auto=format)
-
 ### Everburn Blade - A Tier
+
+![Everburn](/items/everburn_blade.png)
+
 
 Weapon Type: Greatsword
 
@@ -400,9 +411,10 @@ Ever-Burning: An arcane flame that cannot be quenched; deals an extra 1d4 fire d
 
 It’s a consistent and high damage heavy weapon that you can get early. Unlike others I’ve met on BG3 forums, I don’t consider it the best two-handed weapon in the game, or even the third best. Its still good though.
 
-![Exterminator's Axe_BG3](https://cdn.sanity.io/images/si39ve47/production/83a729b4e2b46439b9d9f57999a8a1631287bced-150x150.png?w=150&auto=format)
 
 ### Exterminator's Axe - B Tier
+
+![Exterminator's Axe](/items/exterminators_axe.png)
 
 Weapon Type: Greataxe
 
@@ -410,9 +422,10 @@ Scourge of Pests: Deals an additional 1d6 fire damage to plants, insects, and sm
 
 A situational version of Blooded Greataxe. Not much to say here, its worth it if you are fighting the creatures its good against, otherwise its just a greataxe. I typically just sell this.
 
-![Faithbreaker_BG3](https://cdn.sanity.io/images/si39ve47/production/26864fe2c5064444c19a44e79aff68a43f77dce4-150x150.png?w=150&auto=format)
 
 ### Faithbreaker - S Tier
+
+![Faithbreaker](/items/faithbreaker.png)
 
 Weapon Type: Warhammer
 
@@ -424,9 +437,10 @@ Note: Unlike the Battlemaster Maneuver Pushing Attack, there is no saving throw 
 
 Pushing targets can easily add guaranteed double digit damage in BG3, either from fall damage or from pushing into Cloud of Daggers. Faithbreaker offers the best push in the game. Not only can it push heavy creatures, it does it without a saving throw, all you need to do is hit the attack. This is the best one-handed weapon in the game in my opinion.
 
-![Firestoker_BG3](https://cdn.sanity.io/images/si39ve47/production/5fe0655d97f51f914565ed680470fd3f3b45d592-150x150.png?w=150&auto=format)
 
 ### Firestoker - C Tier
+
+![Firestoker](/items/firestoker.png)
 
 Weapon Type: Hand Crossbow
 
@@ -434,9 +448,10 @@ Burned Alive: Deals an additional 1d4 slashing damage to burning targets.
 
 It's the crossbow version of Dragon’s Grasp that you get much later on your runs. Completely underwhelming.
 
-![Giant Breaker_BG3](https://cdn.sanity.io/images/si39ve47/production/a859181d67b18bd177c097d0c01f5df14d7a38e7-150x150.png?w=150&auto=format)
 
 ### Giantbreaker - B Tier
+
+![Giantbreaker](/items/giantbreaker.png)
 
 Weapon Type: Heavy Crossbow
 
@@ -446,9 +461,10 @@ Note: there is no saving throw to resist the reeling condition. A reeling target
 
 Reeling is fine. Its just fine. You can count on this weapon. It’s one of the better ranged weapons probably. I just prefer my weapons to do damage.
 
-![Gith Corssbow_BG3](https://cdn.sanity.io/images/si39ve47/production/260287cc8a1875ce02ff6328eb43a3fa567df5f7-150x150.png?w=150&auto=format)
 
 ### Githyanki Crossbow - B Tier
+
+![Gith Crossbow](/items/githyanki_crossbow.png)
 
 Weapon Type: Heavy Crossbow
 
@@ -458,9 +474,10 @@ Some people report that, despite what the tooltip says, some Gith weapons do mor
 
 It’s a small boost to damage that is situational. However, psychic damage is seldom resisted, and dropping below 50% is fairly common, since other items also incentivize it.
 
-![Gith Greatsword_BG3](https://cdn.sanity.io/images/si39ve47/production/628e932bcca93e6ed54959593a1fcc8a23497827-150x150.png?w=150&auto=format)
 
 ### Githyanki Greatsword - B Tier
+
+![Gith Greatsword](/items/githyanki_greatsword.png)
 
 Weapon Type: Greatsword
 
@@ -470,9 +487,10 @@ Some people report that, despite what the tooltip says, some Gith weapons do mor
 
 It’s a small boost to damage that is situational. However, psychic damage is seldom resisted, and dropping below 50% is fairly common, since other items also incentivize it.
 
-![Gith Longsword_BG3](https://cdn.sanity.io/images/si39ve47/production/d63bc702dded73c26ce01736d72a3070ea24963e-150x150.png?w=150&auto=format)
 
 ### Githyanki Longsword - B Tier
+
+![Gith Longsword](/items/githyanki_longsword.png)
 
 Weapon Type: Longsword
 
@@ -482,9 +500,10 @@ Some people report that, despite what the tooltip says, some Gith weapons do mor
 
 It’s a small boost to damage that is situational. However, psychic damage is seldom resisted, and dropping below 50% is fairly common, since other items also incentivize it.
 
-![Gith Shortsword_BG3](https://cdn.sanity.io/images/si39ve47/production/9aaa247ecff9254ea0f2e93b7ef9932086821915-150x150.png?w=150&auto=format)
 
 ### Githyanki Shortsword - B Tier
+
+![Gith Shortsword](/items/githyanki_shortsword.png)
 
 Weapon Type: Shortsword
 
@@ -494,9 +513,10 @@ Some people report that, despite what the tooltip says, some Gith weapons do mor
 
 It’s a small boost to damage that is situational. However, psychic damage is seldom resisted, and dropping below 50% is fairly common, since other items also incentivize it.
 
-![Glowing Shield_BG3](https://cdn.sanity.io/images/si39ve47/production/a3b9c1572dcf0007933b8bbf1cd810b76da88bc2-150x150.png?w=150&auto=format)
 
 ### Glowing Shield - B Tier
+
+![Glowing Shield](/items/glowing_shield.png)
 
 Weapon Type: Shield
 
@@ -504,9 +524,10 @@ Loving Protection: Once per short rest, if you are below 50% Hit Points and take
 
 It’s 8 temporary hit points per short rest, which adds up to 24 per long rest if you maximize it. It is boring, but not insignificant.
 
-![Intransigent Warhammer_BG3](https://cdn.sanity.io/images/si39ve47/production/7ef818ae7aee0e168d5e94168ee9d0d1e1124b25-150x150.png?w=150&auto=format)
 
 ### Intransigent Warhammer - A Tier
+
+![Intransigent Warhammer](/items/intransigent_warhammer.png)
 
 Weapon Type: Warhammer
 
@@ -516,9 +537,10 @@ Note: I missed this item on my last run, so I haven’t tested it this patch. I�
 
 Knock back effects are often useful. You can force the proc with any auto crit mechanic, meaning you can control when you want to get this effect to some extent.
 
-![Jagged Spear_BG3](https://cdn.sanity.io/images/si39ve47/production/e339ecd221e876e6905183389adbd85b86560fb5-150x150.png?w=150&auto=format)
 
 ### Jagged Spear - A Tier
+
+![Jagged Spear](/items/jagged_spear.png)
 
 Weapon Type: Spear
 
@@ -528,9 +550,10 @@ Note: the status condition procs on 100% of hits, there is no saving throw.
 
 This is an enabling weapon, not a DPR weapon. There are some good spells that target constitution (ex: Thunderwave, Ray of Enfeeblement, Shatter, Moonbeam, etc). The fact that there is no save to resist the disadvantage really puts it over into A-tier. Put this on a character who is tanky but isn’t a striker (like Shadowheart, for example).
 
-![Light of Creation_BG3](https://cdn.sanity.io/images/si39ve47/production/1fa2e3ecdbae2297b28b7a539cf6ec845d7ddafb-150x150.png?w=150&auto=format)
 
 ### Light of Creation - A Tier
+
+![Light of Creation](/items/light_of_creation.png)
 
 Weapon Type: Halberd
 
@@ -542,9 +565,10 @@ Note: This weapon stuns the wielder on about 20% of hits. However, what many peo
 
 I love this weapon! It just does so much damage. It’s the highest, unconditional DPR weapon in the game so far, and that isn’t even factoring in that it does lightning damage, which you can double with Create Water. Assuming a base 75% chance to hit and a 16 strength, this weapon will average 13.83 damage per attack against a wet target, or 21.13 with Great Weapon Master!
 
-![Loviatar's Scourge_BG3](https://cdn.sanity.io/images/si39ve47/production/7fae0c9cfc67252f714fc8783f8d20658582a94b-150x150.png?w=150&auto=format)
 
 ### Loviatar's Scourge - C Tier
+
+![Loviatar's Scourge](/items/loviatars_scourge.png)
 
 Weapon Type: Mace
 
@@ -554,9 +578,10 @@ Note: This item is currently bugged, so that it does not deal the additional nec
 
 Because its bugged, this only give you resistance to necrotic damage, which isn’t very common, so C-tier.
 
-![Nature's Snare_BG3](https://cdn.sanity.io/images/si39ve47/production/39435565fdcaee67e8902dc7e2ba9bcdb4cb839d-150x150.png?w=150&auto=format)
 
 ### Nature's Snare - B Tier
+
+![Nature's Snare](/items/natures_snare.png)
 
 Weapon Type: Staff
 
@@ -566,9 +591,10 @@ Note: I’m not sure exactly how often the target is ensnared, but my experience
 
 Assuming I am right about the 20% proc rate, this feature adds around 1 damage per attack, which isn’t shabby as a feature, but on a quarterstaff its not going to add up to good DPR. You also can’t rely on the entangle procing when you need it.
 
-![Paleoak_BG3](https://cdn.sanity.io/images/si39ve47/production/2e202c898d42fe50a1d97a94f17c19e88eaffe87-150x150.png?w=150&auto=format)
 
 ### Paleoak - B Tier
+
+![Paleoak](/items/paleoak.png)
 
 Weapon Type: Staff
 
@@ -578,9 +604,10 @@ Faithwarden’t Stride: The wielder of this weapon is immune to all effects of t
 
 This is situationally good on Druid, basically allowing you to make attacks with advantage. It may deserve A-tier, but I am just not a fan of Entangle. If you like Entangle and use it often, then consider this A-tier.
 
-![Raindancer_BG3](https://cdn.sanity.io/images/si39ve47/production/b88f4c06d4ce1fb60adf14f0e19c46d78455585d-150x150.png?w=150&auto=format)
 
 ### Raindancer - A Tier
+
+![Raindancer](/items/raindancer.png)
 
 Weapon Type: Staff
 
@@ -588,9 +615,10 @@ Create Water: May cast Create Water as a lvl 1 spell once per short rest.
 
 Unlike Entangle, Create Water is an S-tier spell, and with this item it refreshes on a short rest! Fantastic way to guarantee Create Water casts on solo Wizard runs. Just a fantastic staff in general. I prefer to get this over Corellon’s Grace in the early game, although I do eventually swap it out for the Staff of Arcane Blessing later. Even after swapping it out, I keep this around as a side arm.
 
-![Ritual Axe_BG3](https://cdn.sanity.io/images/si39ve47/production/6c1607e15d2c6abcdb12f57dce2b53fb5928fe38-150x150.png?w=150&auto=format)
 
 ### Ritual Axe - B Tier
+
+![Ritual Axe](/items/ritual_axe.png)
 
 Weapon Type: Handaxe
 
@@ -600,9 +628,10 @@ Note: This does not stack with the Bane spell. There is no saving throw to resis
 
 Bane is a potent debuff, as we have discussed. However, there are already several ways to proc Bane, even on hit (Absolute’s Warboard, Gloves of Power). Because of that, I find I that I rarely use Ritual Axe. If you aren’t using any other Bane item, Ritual Axe could be considered A-tier.
 
-![Ritual Dagger_BG3](https://cdn.sanity.io/images/si39ve47/production/4df929b0ebbe157501b1a08d8fcc6196a90ea542-150x150.png?w=150&auto=format)
 
 ### Ritual Dagger - B Tier
+
+![Ritual Dagger](/items/ritual_dagger.png)
 
 Weapon Type: Dagger
 
@@ -614,9 +643,10 @@ Note: the effects do not stack with Bless. However, they also do not require con
 
 Similar to Ritual Axe, there are already better ways of getting Bless than to expend a valuable weapon slot.
 
-![Shattered Flail_BG3](https://cdn.sanity.io/images/si39ve47/production/4653c7aac597e977d8ff6bf5976979619a79dd6b-150x150.png?w=150&auto=format)
 
 ### Shattered Flail - A Tier
+
+![Shattered Flail](/items/shattered_flail.png)
 
 Weapon Type: Mace
 
@@ -628,9 +658,10 @@ Note: In all the times I’ve used Shattered Flail I have never had a character 
 
 This is another one of my favorite weapons! It’s the only +2 weapon in the game and it heals on hit as well. If you add up its healing with its damage it averages 5.5 damage swing per hit, which is a lot. For this reason, I like to use it in builds that make lots of attacks.
 
-![SS of First Blood_BG3](https://cdn.sanity.io/images/si39ve47/production/aae4893bad957c3b8d573e2add7643ab1e2df3a1-150x150.png?w=150&auto=format)
 
 ### Shortsword of First Blood - A Tier
+
+![Shortsword of First Blood](/items/shortsword_of_the_firstblood.png)
 
 Weapon Type: Shortsword
 
@@ -638,9 +669,10 @@ Break the Unbroken: Deals an additional 1d8 damage if the target is full health.
 
 The value of this really depends on your play style I suppose. It could be either B or A, depending on how you spread out your damage. There isn’t much to explain, it does a lot of damage on first hits. I find that it is good as a main hand weapon for Rogues.
 
-![Sickle of Booal_BG3](https://cdn.sanity.io/images/si39ve47/production/e0512777fd3eaffbddbabaf3e8ed720d31bf68d6-150x150.png?w=150&auto=format)
 
 ### Sickle of Booal - RP Tier
+
+![Sickle of Booal](/items/sickle_of_booal.png)
 
 Weapon Type: Sickle
 
@@ -650,9 +682,10 @@ Note: Everyone says it gives you advantage when attacking bleeding victims, but 
 
 This weapon is bugged right now, making it useless. I expect it would be B-tier,
 
-![Light Hammer +1_BG3](https://cdn.sanity.io/images/si39ve47/production/545b06506a04f374f545d2b8ad11958e62bad59a-150x150.png?w=150&auto=format)
 
 ### Skybreaker - B Tier
+
+![Light Hammer +1](/items/skybreaker.png)
 
 Weapon Type: Light Hammer
 
@@ -662,9 +695,10 @@ Searing Smite: Allows you to use the spell Searing Smite (at 1st level) once per
 
 Searing Smite is a C-tier spell at best, and that’s practically all this item offers. The +1 enchantment is enough to keep it out of C-tier itself though.
 
-![Spellthief_BG3](https://cdn.sanity.io/images/si39ve47/production/e426f29e45bcb21011a2e78c4f228f3557f2e032-150x150.png?w=150&auto=format)
 
 ### Spellthief - S Tier
+
+![Spellthief](/items/spellthief.png)
 
 Weapon Type: Longbow
 
@@ -674,9 +708,10 @@ Note: If you crit with a spell or cantrip while wielding Spellthief you still ge
 
 Spells are incredible, and this bow gives you an extra one per short rest (three per long rest). Its easy to guarantee crits in BG3 with Sleep, Tasha’s, Hold Person, etc. If you plan carefully, you can swap this item around to all your spellcasters, making sure each of them get the bonus spells. You don’t need to be proficient in Longbows to use it.
 
-![Sorrow_BG3](https://cdn.sanity.io/images/si39ve47/production/591e43714ba1a24d25d63f2a2356bd4b40a0d7e6-150x150.png?w=150&auto=format)
 
 ### Sorrow - B Tier
+
+![Sorrow](/items/sorrow.png)
 
 Weapon Type: Glaive
 
@@ -688,9 +723,10 @@ Regret: The user takes 1 psychic damage whenever they deal damage with this weap
 
 This weapon needs a buff in my opinion. The look and the way you get it are so cool, but then it just sucks as a weapon. Its not even the 1 psychic damage that ruins it, its Ensnaring Strike. Its just not a good spell… I’m not sure how to fix it, may make it +2? I also wish basic enchantments would effect the DC of weapon action and spells, that might help.
 
-![Staff of Arcane Blessing_BG3](https://cdn.sanity.io/images/si39ve47/production/811d468b8a0419689ea4d383be634d034744baed-150x150.png?w=150&auto=format)
 
 ### Staff of Arcane Blessing - S Tier
+
+![Staff of Arcane Blessing](/items/staff_of_arcane_blessing.png)
 
 Weapon Type: Staff
 
@@ -702,9 +738,10 @@ Note: This spell does not do what it says it does. The only effect it gives is a
 
 Even though it is only a fraction as good as the tooltip says it should be, its still soooo good. This turns spells like Flame Blade and Scorching Ray into killers. You should be spamming Bless anyways, so any boost to Bless is going to add up to a big bonus just from the frequency of the cast.
 
-![Staff of Crones_BG3](https://cdn.sanity.io/images/si39ve47/production/949aebb8574926c79e51dbcd1a561f06b7229754-150x150.png?w=150&auto=format)
 
 ### Staff of Crones - RP Tier
+
+![Staff of Crones](/items/staff_of_crones.png)
 
 Weapon Type: Staff
 
@@ -712,9 +749,10 @@ Ray of Sickness: While wielding this staff, you can cast Ray of Sickness without
 
 If Ray of Sickness didn’t hit you as well as your enemy this would be A-tier, effectively giving you a boosted cantrip. As it is right now, its just not worth using. Feed it to Gale.
 
-![Sussur Dagger_BG3](https://cdn.sanity.io/images/si39ve47/production/9f6911e0c75929ca9a762530a8ce45880f7c6896-150x150.png?w=150&auto=format)
 
 ### Sussur Dagger - A Tier
+
+![Sussur Dagger](/items/sussur_dagger.png)
 
 Weapon Type: Dagger
 
@@ -724,9 +762,10 @@ Silence the Enemy: Silences the target for one turn on hit. There is no save, an
 
 All of the Sussur weapons are identical in effect, so I will use the same review for all of them. A single target silence that sticks to an enemy is actually better than the AoE Silence spell, because they can’t walk out of a status condition. As I have already said, spell are powerful, so stopping spells from being cast is very valuable.
 
-![Sussur Greatsword_BG3](https://cdn.sanity.io/images/si39ve47/production/6862680eacb196dd62ea419d42b179866c75aa3d-150x150.png?w=150&auto=format)
 
 ### Sussur Greatsword - A Tier
+
+![Sussur Greatsword](/items/sussur_greatsword.png)
 
 Weapon Type: Greatsword
 
@@ -736,9 +775,10 @@ Silence the Enemy: Silences the target on hit. There is no save, and it procs on
 
 All of the Sussur weapons are identical in effect, so I will use the same review for all of them. A single target silence that sticks to an enemy is actually better than the AoE Silence spell, because they can’t walk out of a status condition. As I have already said, spell are powerful, so stopping spells from being cast is very valuable.
 
-![Sussur Sickle_BG3](https://cdn.sanity.io/images/si39ve47/production/463a1529ed91ce313f260f9f5e38b16302b3747d-150x150.png?w=150&auto=format)
 
 ### Sussur Sickle - A Tier
+
+![Sussur Sickle](/items/sussur_sickle.png)
 
 Weapon Type: Sickle
 
@@ -748,9 +788,10 @@ Silence the Enemy: Silences the target on hit. There is no save, and it procs on
 
 All of the Sussur weapons are identical in effect, so I will use the same review for all of them. A single target silence that sticks to an enemy is actually better than the AoE Silence spell, because they can’t walk out of a status condition. As I have already said, spell are powerful, so stopping spells from being cast is very valuable.
 
-![Sword of Justice_BG3](https://cdn.sanity.io/images/si39ve47/production/bb67bf44a2ab0460d0fc9a9d8d9494374ded1393-150x150.png?w=150&auto=format)
 
 ### Sword of Justice - S Tier
+
+![Sword of Justice](/items/sword_of_justice.png)
 
 Weapon Type: Greatsword
 
@@ -760,9 +801,10 @@ Tyr’s Protection: Allows you to cast Shield of Faith on yourself as a bonus ac
 
 I couldn’t find a png image for this one, so I used a generic greatsword instead. I consider this to be the best two-handed weapon in the game. It allows for an efficient use of you concentration slot, which many two-handed weapon users don’t have. The extra AC also helps proc Ripostes for Battlemasters. All around an awesome weapon that you can get very early in the game.
 
-![Sword of Screams_BG3](https://cdn.sanity.io/images/si39ve47/production/c0a66f98f2fafffb27fc0daa18ac77821cb9fb9d-150x150.png?w=150&auto=format)
 
 ### Sword of Screams - A Tier
+
+![Sword of Screams](/items/sword_of_screams.png)
 
 Weapon Type: Rapier
 
@@ -770,9 +812,10 @@ Screams: Deals an additional 1d4 psychic damage on hit.
 
 It's a rapier that will deal an additional 2.5 damage on hit. Like the finesse weapon version of Everburn, only you get it much, much later. Technically it's the highest, one-handed pure damage per hit in the game with no asterisk. I’ve rated it an A-tier, but I think it is still worse than the mainstays of one-handed weapons: Shattered Flail and Faithbreaker.
 
-![The Wartcher's Guide_BG3](https://cdn.sanity.io/images/si39ve47/production/93b6fcc105170b4d9915506baf823d52636974a8-150x150.png?w=150&auto=format)
 
 ### The Watcher's Guide - B Tier
+
+![The Watcher's Guide](/items/the_watchers_guide.png)
 
 Weapon Type: Spear
 
@@ -780,9 +823,10 @@ Death’s Promise: When the spear misses its target, the wielder's next attack a
 
 What’s there to say about this? Its helps you hit more often. There aren’t any tricks for it that I know of. You used to be able to get Death’s Promise on your cantrips by holding The Watcher’s Guide while casting them, but it hasn’t worked for me for a while (it was fixed on Patch 5, my thanks to reddit user Certain\_Childhood849 for bringing this to my attention). It could be used to help proc Sneak Attacks, except that it isn’t a finesse weapon, so it can’t. Its just a mediocre weapon, no tricks.
 
-![Vision of the Absolute_BG3](https://cdn.sanity.io/images/si39ve47/production/2d828f238bfa98bf0eedfab90ac00a13d2e97cc7-150x150.png?w=150&auto=format)
 
 ### Vision of the Absolute - B Tier
+
+![Vision of the Absolute](/items/vision_of_the_absolute.png)
 
 Weapon Type: Spear
 
@@ -792,9 +836,10 @@ Note: In my tests, I proc blind on around 40% of hits, not attacks. You need to 
 
 This is one of the better B-tiers in my opinion, and you can get it early. Keep it around for fights against spectators or spiders.
 
-![Worgfang_BG3](https://cdn.sanity.io/images/si39ve47/production/a161d0c7f6506f0a7568d4f2c3ad246cbe86a822-150x150.png?w=150&auto=format)
 
 ### Worgfang - C Tier
+
+![Worgfang](/items/worgfang.png)
 
 Weapon Type: Dagger
 
@@ -802,9 +847,10 @@ Goblin’s Undoing: Goblins had disadvantage on attacks against the wielder of t
 
 Its decent for clearing the goblin camp, if you prioritize getting it before then. I usually don’t, because I just don’t care about it enough.
 
-![Xyanyde_BG3](https://cdn.sanity.io/images/si39ve47/production/7fae0c9cfc67252f714fc8783f8d20658582a94b-150x150.png?w=150&auto=format)
 
 ### Xyanyde - B Tier
+
+![Xyanyde](/items/xyanide.png)
 
 Weapon Type: Mace
 
