@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Mathematics on Aestus Guides - Memoirs of a CRPG Sage</title><link>https://www.aestusguides.com/categories/mathematics/</link><description>Recent content in Mathematics on Aestus Guides - Memoirs of a CRPG Sage</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Sat, 09 Apr 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://www.aestusguides.com/categories/mathematics/index.xml" rel="self" type="application/rss+xml"/><item><title>Fundamental Math in D&amp;D 5e and Baldur's Gate 3</title><link>https://www.aestusguides.com/articles/5e-bg3-fundamental-math/</link><pubDate>Sat, 09 Apr 2022 00:00:00 +0000</pubDate><guid>https://www.aestusguides.com/articles/5e-bg3-fundamental-math/</guid><description>&lt;img src="https://cdn.sanity.io/images/si39ve47/production/689ddf7723353a59fce740dea32c231b4a275d21-2360x1640.png?w=600&amp;fm=webp" alt="Featured image of post Fundamental Math in D&amp;D 5e and Baldur's Gate 3" />&lt;h1 id="guide-some-fundemental-math-in-5e-and-bg3">Guide Some Fundemental Math in 5e and BG3
+&lt;/h1>&lt;p>This is a resource outlining what I consider the most important math for understanding D&amp;amp;D 5e and BG3. In it I detail important formulas you can use to calculate the power of your own builds, but I also explain as clearly as I can how we arrive at those formulas so that you can understand how it works, not just that it works. At the end I explore the math of power scaling – the so-called “flattened math” of 5e – with concrete examples and discuss how all of it should impact how we evaluate the relative strength of build choices.&lt;/p>
+&lt;p>My plan is to eventually write a similar one of these for Pathfinder, Pillars of Eternity, and the original Baldur’s Gate games as well so we can compare the fundamental math between all of the systems and see how they change what is strong in each system. They will be part of my &amp;ldquo;niche articles for hardcore fans&amp;rdquo; series for my patrons. If you like this article, consider subscribing to my &lt;a class="link" href="https://www.patreon.com/user?u=52365991&amp;amp;fan_landing=true" target="_blank" rel="noopener"
+>Patreon&lt;/a> for more! I already have one article in the series that mathematically models the value of winning initiative.&lt;/p>
+&lt;h2 id="check-bonus-math">Check-Bonus Math
+&lt;/h2>&lt;p>The core method of arbitrating success in D&amp;amp;D 5e and BG3 is the D20 roll. All the really important D20 roles follow the same pattern, which I call the “Check-Bonus” pattern. The “check” is the threshold that a creature has to roll above on their D20. The “bonus” is everything that is added to the roll to try and get over that threshold.&lt;/p>
+&lt;p>The most common example of this pattern is the basic attack role. In attack roles, the check is called Armor Class (AC) and your bonus is appropriately called your Attack Bonus (which will be the sum of several individual bonuses, proficiency bonus, attribute modifier, weapon enchantment, etc). But note that the same Check-Bonus pattern applies to spell saving throws, where the check is called DC, and the bonus is your appropriate saving throw bonuses. Same goes for skill checks too.&lt;/p>
+&lt;p>For the Check-Bonus pattern we must first determine what number we have to roll above on the D20, then from there we need to express that as probability.&lt;/p>
+&lt;p>Hopefully the process of figuring out what number you need to roll above on the D20 is intuitive to you. Nevertheless, it will be useful for us to formalize it. I always refer to this value as “n,” where:&lt;/p>
+&lt;h4 id="n--check--bonus">n = (Check – Bonus)
+&lt;/h4>&lt;p>Let’s try a quick example. Suppose Niles the rogue has a +5 Attack Bonus and is rolling to hit against an orc with a 16 AC, then “n = 16 – 5” or “n = 11” which just means that Niles must roll an 11 or above to hit the attack.&lt;/p>
+&lt;p>That is all well and good, but “11” isn’t a value that expresses a probability. In probability, values are expressed in percent (i.e. 15% chance to hit), which is more fundamentally expressed as a decimal (i.e. 0.15). Probability is always the number of desired outcomes divided by the number of total outcomes. We can find the number of desired outcomes by subtracting n from 20, then we divide that by 20 (which is the number of possible outcomes on a 20 sided dice). This new number (n expressed as a probability) I call “p”, thus:&lt;/p>
+&lt;h4 id="p--20--n20">p = (20 – n)/20
+&lt;/h4>&lt;p>But there is actually a problem with this, which we will see if we try out the formula. Let’s return to the example of Niles attacking the orc and see how it works. In that scenario n = 11, so p = 9/20, or 0.45 (45%). This cannot be correct, because we know intuitively that rolling an 11 or above on a D20 should be a 50% chance of success (11 through 20 actually represents 10 possible outcomes out of 20, not 9. Try counting them out on your fingers and you will see). Where did the missing 0.05 go?&lt;/p>
+&lt;p>Remember that if n = 11 then a roll equal to or above 11 is what we need to succeed. It’s the “equal to” that we didn’t calculate in our formula. To account for this I just cheat and add 0.05 on at the end. So the corrected formula expressing n as probability is:&lt;/p>
+&lt;h4 id="p--20--n20--005">p = (20 – n)/20 + 0.05
+&lt;/h4>&lt;p>In the majority of situations p is all we will need to determine our chance to hit. The minority of situations where p does not equal our chance to hit is in situations where there is advantage or disadvantage, so we will turn to calculating those next.&lt;/p>
+&lt;h2 id="advantage-and-disadvantage">Advantage and Disadvantage
+&lt;/h2>&lt;p>In 5e, attacking with advantage means you roll your D20 twice and take the highest result. Conversely, disadvantage means you roll twice and take the lowest result. The math behind this seems daunting, at least it did for me, until I discovered this helpful way to think about it and model it. We’ll start with attack roles. First, some basic principles:&lt;/p>
+&lt;ol>
+&lt;li>When you are attacking with advantage, you must miss twice in a row to actually miss.&lt;/li>
+&lt;li>When you are attacking with disadvantage, you must HIT twice in a row to actually hit.&lt;/li>
+&lt;/ol>
+&lt;p>We can model this with a very simple graph:&lt;/p>
+&lt;p>&lt;img src="https://cdn.sanity.io/images/si39ve47/production/85004da22c9406459458e015235194c1f200abf7-200x65.png?fm=webp&amp;amp;max-w=448"
+loading="lazy"
+alt="Adv_DsAdv_Chart"
+>&lt;/p>
+&lt;p>Each box represents a possible outcome and we can easily picture what our hit percentage will be by shading in the outcomes which will translate to a hit (since what we want is our percentage chance to hit). Note, all four boxes together will equal the value “1” because they represent all possible outcomes.&lt;/p>
+&lt;p>It&amp;rsquo;s easiest to start with disadvantage. When attacking with disadvantage we need to find the probability of the “Hit-Hit” outcome (see point 2 above), so we graph that by shading it in:&lt;/p>
+&lt;p>&lt;img src="https://cdn.sanity.io/images/si39ve47/production/d4c6eaf1ed97145df4ae897ce32ac134673ae474-201x65.png?fm=webp&amp;amp;max-w=448"
+loading="lazy"
+alt="DsAdv_Chart"
+>&lt;/p>
+&lt;p>This is actually very easy to calculate because we already know how to calculate our base chance to hit. To determine the chance of two outcomes you must multiply those outcomes together, in our case its two hits, so, “hit% x hit%” or “p x p” or “p2”. Let&amp;rsquo;s make a note of that for our list of formulas:&lt;/p>
+&lt;h4 id="formula-for-disadvantage-p2">Formula for disadvantage: p^2
+&lt;/h4>&lt;p>Now what about when we are attacking with advantage? This is much more complicated to solve, but once we model it on our graph we can see what we need to do. Remember, when attacking with advantage you must miss twice to actually miss, so:&lt;/p>
+&lt;p>&lt;img src="https://cdn.sanity.io/images/si39ve47/production/1c882eaa6ee55316d059a7d628afc6fbe968afc4-199x65.png?fm=webp&amp;amp;max-w=448"
+loading="lazy"
+alt="Adv_Chart"
+>&lt;/p>
+&lt;p>The easiest way to zero in on those three boxes is to find the value of the “Miss-Miss” box than subtract that number from 1. Why? Because, as we noted above, all four boxes together equal the value of 1 (or 100% chance, because when calculating odds 100%, expressed as 1, is the upper bound). If we find the exact value of the “Miss-Miss” box and subtract that from 1 we will have the value of the three shaded boxes.&lt;/p>
+&lt;p>So what is the value of the “Miss-Miss&amp;rsquo;&amp;rsquo; box? Well, it will be miss% squared (just like the “Hit-Hit box was hit% squared). The difficulty is we haven’t calculated for the miss equivalent of “p.” But it&amp;rsquo;s really not much of a difficulty, because we can just subtract p from 1 to get miss% (because if you aren’t hitting you are missing, there is no middle term). Thus,&lt;/p>
+&lt;h4 id="miss--1--p">Miss% = 1 – p
+&lt;/h4>&lt;p>Then we need to square that to isolate the value of the “Miss-Miss” box:&lt;/p>
+&lt;h4 id="miss-miss-box--1--p2">Miss-Miss Box = (1 – p)^2
+&lt;/h4>&lt;p>Then we need to subtract that from 1 to isolate the value of the three shaded boxes:&lt;/p>
+&lt;h4 id="1--1--p2">1 – (1 – p)^2
+&lt;/h4>&lt;p>And that is our formula for calculating our chance to hit when attacking with advantage!&lt;/p>
+&lt;h4 id="formula-for-advantage-1--1--p2">Formula for Advantage: 1 – (1 – p)^2
+&lt;/h4>&lt;p>Just for the sake of being thorough, what would the formula be in a “double-advantage” scenario, where you roll three dice and take the highest? This is possible in 5e with the Elven Accuracy feat. In these cases, nothing changes about the math except now you need three hits and three misses, so the formula stays the same except that everytime something is squared, we change it to the power of three, so:&lt;/p>
+&lt;h4 id="formula-for-double-advantage-1--1--p3">Formula for Double Advantage: 1 – (1 – p)^3
+&lt;/h4>&lt;h2 id="attack-roles-dpr">Attack Roles (DPR)
+&lt;/h2>&lt;p>That is all the basics covered. Now we can apply it. One of these easiest and most useful things to calculate in any tactical combat game is damage per round (DPR) on attack roles. 5e uses a standard 3-outcome system for attack roles – Hit, Miss, and Crit. Misses, of course, do no damage at all, so to calculate DPR we need to focus on hitting and critting. The core of the calculation is to multiply your chance for an outcome with the average damage on that outcome, then add that number for all outcomes together. When we do this we get the following formula:&lt;/p>
+&lt;h4 id="dpr--hit---crit-x-dmghit--crit-x-dmgcrit">DPR = (Hit% - Crit%) x dmg/hit + Crit% x dmg/crit
+&lt;/h4>&lt;p>Here our Hit% will be equal to p (modified accordingly for advantage and disadvantage). The reason we subtract Crit% from it at the beginning is because when we were calculating p above we did not differentiate hitting from critting, so p actually includes both probabilities together until we subtract Crit% out of it.&lt;/p>
+&lt;p>Still, there is something missing from this formula, and it is number of attacks in a round. What the above formula really represents is damage per attack, so we can just multiply the whole thing by attacks per round (APR) to get to a full DPR formula:&lt;/p>
+&lt;h4 id="dpr--hit---crit-x-dmghit--crit-x-dmgcrit-apr">DPR = ((Hit% - Crit%) x dmg/hit + Crit% x dmg/crit) APR
+&lt;/h4>&lt;p>And, of course, if your build makes separate attacks on a bonus action, you will need to run the same formula for bonus actions and add that to the whole.&lt;/p>
+&lt;p>As a final note to finish this section off, I want to discuss the mathematics of critting. First off, what does a crit actually do? In D&amp;amp;D 5e a critical hit allows you to double all your damage dice when you roll damage. It does not double any flat bonuses that you have, for example, from your strength attribute or barbarian rage or even the Great Weapon Master (GWM) feat. That means your dmg/crit value will be a little less than double your dmg/hit, depending on your build and how much of your damage is coming from dice rolls. For a typical level 4 GWM fighter a crit will hover around a 35% boost to damage, for a typical level 4 rogue a crit will be around a 73% increase to damage, and for a level 4 wizard casting Chromatic Orb a crit will actually double your damage (100% increase).&lt;/p>
+&lt;p>It&amp;rsquo;s also important to remember that advantage/disadvantage modifies your crit percent as well. If you are rolling twice and taking the highest you will be critting more often as well as hitting more often! The contrary is true if you are attacking with disadvantage. Run the same formula on your base odds to crit to get your modified Crit% when attacking with advantage/disadvantage.&lt;/p>
+&lt;h2 id="spell-saves-dptr">Spell Saves (DPTr)
+&lt;/h2>&lt;p>Enough about attacks, what about spells? Spells by and large have many potent effects that are hard to mathematically model, so we won’t try to do that here. All you can really calculate on a spell like Hold Person is how likely you will be to land the spell on a target and how much it boosts the DPR of an ally to attack a paralyzed target. How valuable it is to lock down a target in a fight is more nebulous. Nonetheless, there are some spells that are just damage spells and understanding and comparing these is very straightforward.&lt;/p>
+&lt;p>In 5e, most damage spells will fit into two kinds, which I call attack spells and save spells. An attack spell is just like attacking with a weapon, so the math is identical to what we outlined above. We won’t say anything more about them.&lt;/p>
+&lt;p>Save spells are different. In a save spell you don’t roll to hit, instead, you impose your check (DC) against your target who rolls against it to avoid the effect. Because of this, it would feel contrived for save spells to crit (do you crit if they roll as 1? Its weird…). To compensate for not being able to crit, save spells do half damage on a miss.&lt;/p>
+&lt;p>As in the case of calculating attack roles, the formula will be multiplying your chance for an outcome with the average damage on that outcome, then add those numbers for all outcomes together. In this case we have two possible outcomes: hit and miss. Thus, our base formula will be:&lt;/p>
+&lt;h4 id="save-spell-damage--hit-x-dmghit--miss-x-dmgmiss">Save Spell Damage = Hit% x dmg/hit + Miss% x dmg/miss
+&lt;/h4>&lt;p>That is the damage it will do to a single target though. Many spells, like Fireball for example, can hit more than one target. Thus:&lt;/p>
+&lt;h4 id="save-spell-damage--hit-x-dmghit--miss-x-dmgmiss-targets">Save Spell Damage = (Hit% x dmg/hit + Miss% x dmg/miss) Targets
+&lt;/h4>&lt;p>The thing is, its impossible to predict what the average targets hit will be. It will vary drastically by your group strategy and the amount of combatants you face in an encounter. For this reason, I prefer to compare damage spells by their damage per target stat (DPTr) and make a note of how effective their targeting method is. This is as far as out very simple calculations will get us, the rest is up to your own best judgement, and that is the really fun part!&lt;/p>
+&lt;h2 id="progression-and-flattened-math">Progression and Flattened Math
+&lt;/h2>&lt;p>The last area of math that is fundamental to understanding 5e and BG3 has to do with character progression. That is, how much stronger does a character get from level 1 to level 20? To model this, let’s look at the very basic stats of Elanna the Fighter. At level 1 Elanna has 16 strength and constitution, is wearing chainmail armor, and wields a longsword and shield with the Dueling Fighting Style. Here are her basic combat stats:&lt;/p>
+&lt;p>&lt;strong>Elanna (Lvl 1)&lt;/strong>&lt;/p>
+&lt;p>&lt;strong>Attack Bonus:&lt;/strong> +5&lt;br>
+&lt;strong>Damage:&lt;/strong> 9.5, 14 on a crit&lt;br>
+&lt;strong>APR:&lt;/strong> 1&lt;br>
+&lt;strong>AC:&lt;/strong> 18&lt;br>
+&lt;strong>HP:&lt;/strong> 13&lt;/p>
+&lt;p>Fast forward 20 levels, and now Elanna has a 20 strength and constitution. In her adventures she acquired +3 plate armor, and a +3 longsword and shield (the highest level of enchantment). Here are the same stats at max level:&lt;/p>
+&lt;p>&lt;strong>Elanna (Lvl 20)&lt;/strong>&lt;/p>
+&lt;p>&lt;strong>Attack Bonus:&lt;/strong> +14&lt;br>
+&lt;strong>Damage:&lt;/strong> 14.5, 19 on a crit&lt;br>
+&lt;strong>APR&lt;/strong>: 4&lt;br>
+&lt;strong>AC:&lt;/strong> 26&lt;br>
+&lt;strong>HP:&lt;/strong> 224&lt;/p>
+&lt;p>You can probably already see that the gains to attack bonus, damage, and armor class are not very high. The more important and impactful progression is in hit points and attacks per round. But let’s make the point clearer by comparing them to an enemy. Here are the basic stats of a Pit Fiend, an enemy Elanna might face at level 20:&lt;/p>
+&lt;p>&lt;strong>Pit Fiend (CR 20)&lt;/strong>&lt;/p>
+&lt;p>&lt;strong>Attack Bonus:&lt;/strong> +14&lt;br>
+&lt;strong>Damage:&lt;/strong> 19.5, 31 on a crit&lt;br>
+&lt;strong>APR:&lt;/strong> 4&lt;br>
+&lt;strong>AC:&lt;/strong> 19&lt;br>
+&lt;strong>HP:&lt;/strong> 300&lt;/p>
+&lt;p>Level 20 Elanna has an 80% chance to hit the Pit Fiend with an attack. But if Elanna fought the Pit Fiend at level 1, she would still have a 35% chance to hit it! 35% chance is not high, but it&amp;rsquo;s much higher than the 5% chance that we would expect from a level 1 character fighting a CR 20 monster.&lt;/p>
+&lt;p>Still though, it would take Lvl 20 Elanna 7 rounds on average to kill the Pit Fiend, whereas it would take Lvl 1 Elanna 85 rounds on average, a big difference! But what is the cause of it? Let’s try and isolate the variables. What if Lvl 20 Elanna only had 1 APR, in this situation it would take her 26 rounds on average to kill the Pit Fiend. However, Lvl 1 Elanna with 4 APR would kill it in 22. So, we can see that APR is BY FAR the most important factor in Elanna’s offensive progression.&lt;/p>
+&lt;p>What about her defensive progression? The Pit Fiend would kill Lvl 20 Elanna in 6 rounds on average and would kill Lvl 1 Elanna in 1. If level 1 Elanna had her level 20 armor and shield (26 AC) she would still die in 1 round. However, if she kept her 18 AC and instead had her level 20 HP she would survive 4 rounds on average. Tanking hits with HP is thus a more important part of Elanna’s defensive progression than avoiding them through AC. This is very different from other RPG systems like Pathfinder or 3e D&amp;amp;D where avoiding attacks is more potent.&lt;/p>
+&lt;p>The takeaway is this: that the potency of your attacks has a very stunted progression in 5e. Most progression comes from (1) making more attacks and (2) being able to tank more attacks. Elanna achieves this through stacking APR and HP, but a similar effect can be achieved by overwhelming enemies with sheer numbers. An army of goblins in 5e is a formidable encounter. Sure their attacks are weak, but they have so many of them, and that is what matters in 5e. This is why even weak summons are strong in 5e. The same principle is why it&amp;rsquo;s practically always better to find consistent uses for underused action types than it is to boost your standard action. Finding ways to make attacks with your bonus action and reaction every round is similar to boosting your APR.&lt;/p>
+&lt;p>Progression for spell casters is an entirely different story, that I don’t have the time to go into yet. The principles for it are not so different from what is standard in RPG’s, that progression is primarily found in the potency of the spells found at higher levels. Accuracy on your spells is very difficult to improve in 5e.&lt;/p>
+&lt;h2 id="list-of-formulas">List of Formulas
+&lt;/h2>\[this is the number you have to roll at or above on D20\]\[this expresses n as a probability\]&lt;p>&lt;strong>Formula for disadvantage: p^2&lt;/strong>&lt;/p>
+&lt;p>&lt;strong>Formula for Advantage: 1 – (1 – p)^2&lt;/strong>&lt;/p>
+&lt;p>&lt;strong>Formula for Double Advantage: 1 – (1 – p)^3&lt;/strong>&lt;/p>
+&lt;p>&lt;strong>DPR = ((Hit% - Crit%) x dmg/hit + Crit% x dmg/crit) APR&lt;/strong>&lt;/p>
+&lt;p>&lt;strong>DPTr = (Hit% x dmg/hit + Miss% x dmg/miss) Targets&lt;/strong>&lt;/p>
+&lt;p>&lt;a class="link" href="https://www.aestusguides.com/articles" >Return home&lt;/a>&lt;/p></description></item></channel></rss>

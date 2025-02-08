@@ -1,0 +1,704 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Item Testing on Aestus Guides - Memoirs of a CRPG Sage</title><link>https://www.aestusguides.com/tags/item-testing/</link><description>Recent content in Item Testing on Aestus Guides - Memoirs of a CRPG Sage</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Tue, 15 Feb 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://www.aestusguides.com/tags/item-testing/index.xml" rel="self" type="application/rss+xml"/><item><title>Baldur's Gate 3 Weapons Tier List - Patch 7</title><link>https://www.aestusguides.com/articles/baldurs-gate-3-weapons-tier-list/</link><pubDate>Tue, 15 Feb 2022 00:00:00 +0000</pubDate><guid>https://www.aestusguides.com/articles/baldurs-gate-3-weapons-tier-list/</guid><description>&lt;img src="https://www.aestusguides.com/articles/baldurs-gate-3-weapons-tier-list/Greatsword_PlusOne_Icon.png" alt="Featured image of post Baldur's Gate 3 Weapons Tier List - Patch 7" />&lt;h1 id="guide-baldurs-gate-3-weapons-tier-list">Guide Baldur&amp;rsquo;s Gate 3 Weapons Tier List
+&lt;/h1>&lt;p>Patch 7 is live! I am releasing this tier list while my game is updating, so all of this information is already outdated. Nevertheless, I want you all to have it for your Patch 7 runs! I will be updating it to include any new weapons that have been added as quickly as I can, so check in again in a few days!&lt;/p>
+&lt;p>This article is actually two tier lists in one. I rank all the unique weapons in the game, but I also rank Larian&amp;rsquo;s added weapon actions. Both are important to understanding what you will get from your weapon choices.&lt;/p>
+&lt;p>If you are thinking “I can probably figure out the relative usefulness of these weapons by reading their wiki entries. I don’t need Aestus to tell me which weapons are good.” You are both right and wrong. You are right that you don’t need me to tell you what is good (although I hope you find my opinions interesting at least!). Where you are wrong is that you cannot really know much just by reading wiki descriptions. Many of these weapons do not do what they say they do, including some of your favorites, like the Staff of Arcane Blessing. I painstakingly tested these weapons to find out what they actually do. So even if you understand what makes a weapon good in BG3, you can probably still learn a lot from this article. Even after all my testing, I am sure I missed some things or made some mistakes. If you catch something I missed, let me know and I will update the article.&lt;/p>
+&lt;h2 id="weapon-actions">Weapon Actions
+&lt;/h2>&lt;p>If you are new to BG3 you may be wondering what weapon actions are. Weapon Actions are simple activatable abilities that you can use once per short rest and are tied to the weapon you use. They were added to BG3 by Larian, so you won’t find them in other 5th edition games.&lt;/p>
+&lt;p>Because they were added so recently, there is a lot of confusion surrounding these actions. The tooltips do not clear anything up; most weapon actions work very differently than what their tooltip says. I have tested all of them and tried my best to write a clearer description than what is offered in the game. Read them over, some of them may surprise you! I also rank them in a tier system because that’s just what I do!&lt;/p>
+&lt;h3 id="tiers">Tiers
+&lt;/h3>&lt;p>Here is what the tiers mean:&lt;/p>
+&lt;p>&lt;strong>S Tier:&lt;/strong> Consistently amazing weapon actions. These are game changing actions that are perhaps in need of a nerf. Use these often.&lt;/p>
+&lt;p>&lt;strong>A Tier:&lt;/strong> Consistently good weapon actions. These aren’t game changing but they are useful in most fights and are nice to have.&lt;/p>
+&lt;p>&lt;strong>B Tier:&lt;/strong> Consistently average weapon actions. B-tier weapon actions are underwhelming, but still technically useful in most situations.&lt;/p>
+&lt;p>&lt;strong>C Tier:&lt;/strong> Weapon actions that can be useful in niche circumstances but are usually not worth the resource you expend to use them. These could be removed from the game and no one should really notice.&lt;/p>
+&lt;p>&lt;strong>RP Tier:&lt;/strong> For a weapon action that is actually useless. You don’t get any advantage from using this ability. Larian needs to rework this into something that actually does something.&lt;/p>
+&lt;p>Many weapon actions require a target to make a saving throw, and thus have a DC. With one exception (Backbreaker) Weapon Action DC = 10 + Proficiency Bonus + Strength/Dexterity Modifier.&lt;/p>
+&lt;p>Here is a &lt;a class="link" href="https://docs.google.com/spreadsheets/d/1NpwOx9Q2agMM_93KIIs0Y52iIzDymI4L9YqdGfpR8Mc/edit?usp=sharing" target="_blank" rel="noopener"
+>reference sheet&lt;/a> for which weapons get which actions:&lt;/p>
+&lt;p>Ok, let’s get to the list!&lt;/p>
+&lt;h3 id="backbreaker---b-tier">Backbreaker - B Tier
+&lt;/h3>&lt;p>&lt;img src="https://www.aestusguides.com/articles/baldurs-gate-3-weapons-tier-list/backbreaker.png"
+width="150"
+height="150"
+srcset="https://www.aestusguides.com/articles/baldurs-gate-3-weapons-tier-list/backbreaker_hu_3a6a19e2d4cde4d9.png 480w, https://www.aestusguides.com/articles/baldurs-gate-3-weapons-tier-list/backbreaker_hu_9ad68140afaeeff7.png 1024w"
+loading="lazy"
+alt="Backbreaker"
+class="gallery-image"
+data-flex-grow="100"
+data-flex-basis="240px"
+>&lt;/p>
+&lt;p>The character makes a single standard attack as an action. If the attack hits it deals damage as normal but as if your weapon has 1d4 base damage. Moreover, the target must make a strength saving throw or be knocked prone for two turns. A prone target has disadvantage on strength and dexterity saving throws and all attacks against the target made within 3m have advantage. A target may stand up at the cost of half of its movement.&lt;/p>
+&lt;p>Note: For some reason Backbreaker has a lower DC than all of the other weapon actions. Instead of 10 + Proficiency Bonus + Strength/Dexterity Modifier it has 8 + Proficiency Bonus + Strength/Dexterity Modifier, a -2 penalty.&lt;/p>
+&lt;p>With this ability you lose a bit of damage and get a (slim) chance of knocking the target prone (slim because this is a double-hit ability; you have to hit the attack and the saving throw to gain full effect). Prone is an average status condition. The best thing you get from it is advantage on attacks, but on their next turn they will just stand up again, so only use this if you have an ally who can attack before they stand back up.&lt;/p>
+&lt;h3 id="brace---c-tier">Brace - C Tier
+&lt;/h3>&lt;p>&lt;img src="https://www.aestusguides.com/articles/baldurs-gate-3-weapons-tier-list/brace.png"
+width="150"
+height="150"
+srcset="https://www.aestusguides.com/articles/baldurs-gate-3-weapons-tier-list/brace_hu_657f51894bf3633f.png 480w, https://www.aestusguides.com/articles/baldurs-gate-3-weapons-tier-list/brace_hu_a3493b88920697c3.png 1024w"
+loading="lazy"
+alt="Brace"
+class="gallery-image"
+data-flex-grow="100"
+data-flex-basis="240px"
+>&lt;/p>
+&lt;p>You spend 7.5m of movement and for the rest of your turn you roll damage twice and use the highest result.&lt;/p>
+&lt;p>This ability seems good until you do the math on what rolling damage twice actually does. It adds, on average, 1.65 damage per hit (1.31 for the Longbow). Being able to spend movement (which you often don’t need) to but damage is great, but the damage is just so underwhelming.&lt;/p>
+&lt;h3 id="cleave---b-tier">Cleave - B Tier
+&lt;/h3>&lt;p>&lt;img src="https://www.aestusguides.com/articles/baldurs-gate-3-weapons-tier-list/cleave.png"
+width="150"
+height="150"
+srcset="https://www.aestusguides.com/articles/baldurs-gate-3-weapons-tier-list/cleave_hu_d27b3756ea05bccd.png 480w, https://www.aestusguides.com/articles/baldurs-gate-3-weapons-tier-list/cleave_hu_8a02e9ad9faf0ef8.png 1024w"
+loading="lazy"
+alt="Cleave"
+class="gallery-image"
+data-flex-grow="100"
+data-flex-basis="240px"
+>&lt;/p>
+&lt;p>You attack in a cone that can hit up to 3 targets in front of you. For every attack that hits you deal half of your normal attack damage.&lt;/p>
+&lt;p>When I released this article I had this ranked C-tier. I&amp;rsquo;ve realized now I completely missed the mark with that ranking. The error in my earlier analysis was that I didn&amp;rsquo;t realize it doesn&amp;rsquo;t half flat damage bonuses from sources like Great Weapon Master or Rage. From what I can tell, it halves all damage dice (whether the base damage of the weapon or extra sources like dipped weapons) and it halves your ability modifier (the bonus damage from strength). Everything else is not halved. So it actually does do more damage than a normal hit if you can hit at least two targets.&lt;/p>
+&lt;p>If you have Great Weapon Master, this is an A-tier action. For everyone else its a B.&lt;/p>
+&lt;h3 id="concussive-smash---s-tier">Concussive Smash - S Tier
+&lt;/h3>&lt;p>&lt;img src="https://www.aestusguides.com/articles/baldurs-gate-3-weapons-tier-list/concussive_smash.png"
+width="150"
+height="150"
+srcset="https://www.aestusguides.com/articles/baldurs-gate-3-weapons-tier-list/concussive_smash_hu_64e1559a28d99124.png 480w, https://www.aestusguides.com/articles/baldurs-gate-3-weapons-tier-list/concussive_smash_hu_f84dab529110bf7.png 1024w"
+loading="lazy"
+alt="Concussive Smash"
+class="gallery-image"
+data-flex-grow="100"
+data-flex-basis="240px"
+>&lt;/p>
+&lt;p>The character makes a standard attack as an action. If the attack hits the target must make a constitution saving throw or receive the dazed condition for two turns. A dazed creature has disadvantage on wisdom saving throws, cannot take reactions, and loses their dexterity bonus to armor class.&lt;/p>
+&lt;p>Dazed is an overpowered status condition. Wisdom save spells are the most potent (Tasha’s, Hold Person, etc), so imposing disadvantage on wisdom saves is already enough to make this good. Add on that the target also loses their dexterity bonus to AC and we are in OP territory now. This makes a perfect set-up for Menacing Strike (with an action surge), which is already one of the best control features in the game. Even with all of that, this is still the weakest S-tier weapon action. Keep reading!&lt;/p>
+&lt;h3 id="crippling-strike---b-tier">Crippling Strike - B Tier
+&lt;/h3>&lt;p>&lt;img src="https://www.aestusguides.com/articles/baldurs-gate-3-weapons-tier-list/crippling_strike.png"
+width="150"
+height="150"
+srcset="https://www.aestusguides.com/articles/baldurs-gate-3-weapons-tier-list/crippling_strike_hu_618d2d434c437982.png 480w, https://www.aestusguides.com/articles/baldurs-gate-3-weapons-tier-list/crippling_strike_hu_e268f12c7758bbba.png 1024w"
+loading="lazy"
+alt="Crippling Strike"
+class="gallery-image"
+data-flex-grow="100"
+data-flex-basis="240px"
+>&lt;/p>
+&lt;p>The character makes a single standard attack as an action. If the attack hits it deals damage as normal but as if your weapon has 1d4 base damage. Moreover, the target must make a constitution saving throw or receive the crippled condition for two turns. A crippled target’s movement is reduced to 0 and they have disadvantage on dexterity saving throws.&lt;/p>
+&lt;p>A slightly better version of Backbreaker. Not good enough to move it into A-tier.&lt;/p>
+&lt;h3 id="flourish---b-tier">Flourish - B Tier
+&lt;/h3>&lt;p>&lt;img src="https://www.aestusguides.com/articles/baldurs-gate-3-weapons-tier-list/flourish.png"
+width="150"
+height="150"
+srcset="https://www.aestusguides.com/articles/baldurs-gate-3-weapons-tier-list/flourish_hu_5746bb5c2ab709fd.png 480w, https://www.aestusguides.com/articles/baldurs-gate-3-weapons-tier-list/flourish_hu_3f74899670903708.png 1024w"
+loading="lazy"
+alt="Flourish"
+class="gallery-image"
+data-flex-grow="100"
+data-flex-basis="240px"
+>&lt;/p>
+&lt;p>Flourish is like a melee range control spell that takes a bonus action to cast. The target must make a dexterity saving throw or receive the condition off-balance for two turns. A creature that is off-balance has disadvantage on strength saving throws and the next attack against them is made with advantage.&lt;/p>
+&lt;p>Off-balance is a mediocre condition but being able to apply it on a bonus action is great! Use this to set up a sneak attack or another, stronger weapon action.&lt;/p>
+&lt;h3 id="hamstring-shot---b-tier">Hamstring Shot - B Tier
+&lt;/h3>&lt;p>&lt;img src="https://www.aestusguides.com/articles/baldurs-gate-3-weapons-tier-list/hamstring_shot.png"
+width="150"
+height="150"
+srcset="https://www.aestusguides.com/articles/baldurs-gate-3-weapons-tier-list/hamstring_shot_hu_6c4d1d6964f3309b.png 480w, https://www.aestusguides.com/articles/baldurs-gate-3-weapons-tier-list/hamstring_shot_hu_50aaec335e3892c8.png 1024w"
+loading="lazy"
+alt="Hamstring Shot"
+class="gallery-image"
+data-flex-grow="100"
+data-flex-basis="240px"
+>&lt;/p>
+&lt;p>Make a standard attack. If the attack hits you deal damage as normal, but the target must also roll a constitution saving throw. If they fail, they acquire the hamstrung condition. A hamstrung target has their movement reduced by 50%.&lt;/p>
+&lt;p>Reducing movement by half… Who cares? Technically its useful for kiting, buts it’s a single target once per short rest, and kiting is something you need to do more frequently than that. Still, there is no reduced damage on this ability, so there is no drawback to using it. Its just a standard attack with a mediocre added effect.&lt;/p>
+&lt;h3 id="heartstopper---s-tier">Heartstopper - S Tier
+&lt;/h3>&lt;p>&lt;img src="https://www.aestusguides.com/articles/baldurs-gate-3-weapons-tier-list/heartstopper.png"
+width="150"
+height="150"
+srcset="https://www.aestusguides.com/articles/baldurs-gate-3-weapons-tier-list/heartstopper_hu_6d45fd4b1d3139d3.png 480w, https://www.aestusguides.com/articles/baldurs-gate-3-weapons-tier-list/heartstopper_hu_d87a4c93d4a0d0c9.png 1024w"
+loading="lazy"
+alt="Heartstopper"
+class="gallery-image"
+data-flex-grow="100"
+data-flex-basis="240px"
+>&lt;/p>
+&lt;p>The character makes a single standard attack as an action. If the attack hits it deals damage as normal but as if your weapon has 1d4 base damage. Moreover, the target must make a constitution saving throw or receive the chest trauma condition for two turns. A target with chest trauma has disadvantage on constitution saving throws and loses their standard action.&lt;/p>
+&lt;p>Not enough people are talking about how overpowered Heartstopper is. The enemy loses their action for two turns… TWO TURNS OF NO ACTION. If that doesn’t sound amazing to you, I won’t be able to explain it. Keep a morning-star on every martial character to use this on boss fights or big monsters.&lt;/p>
+&lt;h3 id="lacerate---b-tier">Lacerate - B Tier
+&lt;/h3>&lt;p>&lt;img src="https://www.aestusguides.com/articles/baldurs-gate-3-weapons-tier-list/lacerate.png"
+width="150"
+height="150"
+srcset="https://www.aestusguides.com/articles/baldurs-gate-3-weapons-tier-list/lacerate_hu_f7a4e87f6eea73ea.png 480w, https://www.aestusguides.com/articles/baldurs-gate-3-weapons-tier-list/lacerate_hu_8ebd8cdda27a358b.png 1024w"
+loading="lazy"
+alt="Lacerate"
+class="gallery-image"
+data-flex-grow="100"
+data-flex-basis="240px"
+>&lt;/p>
+&lt;p>This is made as a part of a standard attack. If the attack hits the target takes damage as normal but also must make a constitution saving throw to acquire the bleeding condition for two rounds. A bleeding creature takes two slashing damage at the beginning of their turn and has disadvantage on constitution saving throws.&lt;/p>
+&lt;p>This is one of the stronger B-tier abilities. The extra damage is meh. Constitution save disadvantage is real reason to use this. Constitution save spells (Thunderwave, Ray of Enfeeblement, Shatter, Moonbeam, etc) are not as powerful as wisdom save spells, but they can still swing a fight.&lt;/p>
+&lt;h3 id="mobile-shot---rp-tier">Mobile Shot - RP Tier
+&lt;/h3>&lt;p>&lt;img src="https://www.aestusguides.com/articles/baldurs-gate-3-weapons-tier-list/mobile_shot.png"
+width="150"
+height="150"
+srcset="https://www.aestusguides.com/articles/baldurs-gate-3-weapons-tier-list/mobile_shot_hu_7ed6bed1125fc374.png 480w, https://www.aestusguides.com/articles/baldurs-gate-3-weapons-tier-list/mobile_shot_hu_33f9fedc538ca41.png 1024w"
+loading="lazy"
+alt="Mobile Shot"
+class="gallery-image"
+data-flex-grow="100"
+data-flex-basis="240px"
+>&lt;/p>
+&lt;p>When you use your dash action you may make a standard attack as a bonus action.&lt;/p>
+&lt;p>This is another one that sounds good until you think it over. Its exclusive to hand crossbows, whose niche is being the dual-wield ranged weapon. Dual wielding already allows you make an attack with your bonus action. If you aren’t going to dual wield your hand crossbow then why use a hand crossbow? That is its only advantage over other crossbows. There is absolutely no use for this weapon action.&lt;/p>
+&lt;h3 id="piercing-strikeshot---a-tier">Piercing Strike/Shot - A Tier
+&lt;/h3>&lt;p>&lt;img src="https://www.aestusguides.com/articles/baldurs-gate-3-weapons-tier-list/piercing_strike.png"
+width="150"
+height="150"
+srcset="https://www.aestusguides.com/articles/baldurs-gate-3-weapons-tier-list/piercing_strike_hu_ff840ddef2a79530.png 480w, https://www.aestusguides.com/articles/baldurs-gate-3-weapons-tier-list/piercing_strike_hu_7f471f8a6760a87a.png 1024w"
+loading="lazy"
+alt="Piercing Strike"
+class="gallery-image"
+data-flex-grow="100"
+data-flex-basis="240px"
+>&lt;/p>
+&lt;p>The character makes a single standard attack as an action. If the attack hits the target must make a constitution saving throw or receive the gaping wounds condition for two turns. A target with gaping wounds takes an additional two piercing damage when hit by an attack. Gaping wounds is removed if the target is healed.&lt;/p>
+&lt;p>This is my favorite weapon action. Not because it’s the best, but because it’s the most fun to play around with. Gaping wounds deals more damage the more hits you can get against a target. So how many hits can you get in a single turn? Here are the current standings:&lt;/p>
+&lt;ol>
+&lt;li>Circlet of Fire sorcerer, triple cast of Scorching Ray – 9 hits (18 bonus damage)&lt;/li>
+&lt;li>Circlet of Fire Thief, dual wielding + Scorching Ray Scroll – 6 hits (12 bonus damage)&lt;/li>
+&lt;li>Circlet of Fire Warlock, dual wielding + Scorching Ray – 5 hits (10 bonus damage)&lt;/li>
+&lt;/ol>
+&lt;p>The first two are really niche circumstances, but the third is actually practical. I’ve had 5 attack rounds often with a warlock. One of the most reliable ways of dealing high single target damage is with Scorching Ray because it benefits from Mystra’s Blessing, high ground bonus, the easy stealth advantage, and Circlet of Fire. With dual hand crossbows, you can set up on a target with Piercing Shot and Hex, then, next turn, blast them with Scorching Ray and two off-hand shots, each procing the bonus damage from Hex and gaping wounds, for an average of 5.5 bonus damage per hit (the full combo will average 61.5 damage assuming all attacks hit and a 16-17 dexterity).&lt;/p>
+&lt;h3 id="prepare---a-tier">Prepare - A Tier
+&lt;/h3>&lt;p>&lt;img src="https://www.aestusguides.com/articles/baldurs-gate-3-weapons-tier-list/prepare.png"
+width="150"
+height="150"
+srcset="https://www.aestusguides.com/articles/baldurs-gate-3-weapons-tier-list/prepare_hu_54a142876942e98f.png 480w, https://www.aestusguides.com/articles/baldurs-gate-3-weapons-tier-list/prepare_hu_fbdce1850e11830d.png 1024w"
+loading="lazy"
+alt="Prepare"
+class="gallery-image"
+data-flex-grow="100"
+data-flex-basis="240px"
+>&lt;/p>
+&lt;p>You spend 7.5m of movement to add your strength modifier in slashing damage with your weapon till the end of your turn (i.e. it effectively doubles your strength modifier for damage).&lt;/p>
+&lt;p>Like Piercing Strike, this ability is fun because of how you can multiply it. You multiply your strength by two, then multiply it again by the number of hits in your turn. On a Great Weapon Master build you can attack at max twice in a turn, meaning every +1 bonus to your strength modifier will do a possible +4 damage with Prepare. Its possible to have a 22 strength (18 base + 4 from potions), which is a +6 modifier, or +24 damage just from strength alone. Of course, only half of that is coming from Prepare, but you get the idea.&lt;/p>
+&lt;h3 id="pommel-strike---s-tier">Pommel Strike - S Tier
+&lt;/h3>&lt;p>&lt;img src="https://www.aestusguides.com/articles/baldurs-gate-3-weapons-tier-list/pommel_strike.png"
+width="150"
+height="150"
+srcset="https://www.aestusguides.com/articles/baldurs-gate-3-weapons-tier-list/pommel_strike_hu_6a220dace128cbcf.png 480w, https://www.aestusguides.com/articles/baldurs-gate-3-weapons-tier-list/pommel_strike_hu_773c0d05adffa9b7.png 1024w"
+loading="lazy"
+alt="Pommel Strike"
+class="gallery-image"
+data-flex-grow="100"
+data-flex-basis="240px"
+>&lt;/p>
+&lt;p>Pommel Strike makes an attack role as a bonus action. If the attack hits the target takes you strength modifier in damage and must also make a constitution saving throw or become dazed for 2 rounds.&lt;/p>
+&lt;p>This is like a low damage Concussive Smash, but you can use it on a bonus action. That means you can inflict daze and make a Menacing Strike on the same turn without using action surge. If you do use action surge, you can Menacing Strike twice (if the first one misses). If you are in the same initiative as your wizard, you can Pommel Strike to set up his Tasha’s, and then attack for a free crit. This ability is so good you should never take a short rest before using it.&lt;/p>
+&lt;h3 id="rush-attack---a-tier">Rush Attack - A Tier
+&lt;/h3>&lt;p>&lt;img src="https://www.aestusguides.com/articles/baldurs-gate-3-weapons-tier-list/rush_attack.png"
+width="150"
+height="150"
+srcset="https://www.aestusguides.com/articles/baldurs-gate-3-weapons-tier-list/rush_attack_hu_4c997924bd69b70b.png 480w, https://www.aestusguides.com/articles/baldurs-gate-3-weapons-tier-list/rush_attack_hu_24091e7129ee4d75.png 1024w"
+loading="lazy"
+alt="Rush Attack"
+class="gallery-image"
+data-flex-grow="100"
+data-flex-basis="240px"
+>&lt;/p>
+&lt;p>As an action you can charge 9m forward in a straight line and attack a target. If the attack hits it deals damage as normal but as if your weapon has 1d4 base damage. On a hit the target must also make a strength save or be knocked off-balance for two rounds. A creature that is off-balance has disadvantage on strength saving throws and the next attack against them is made with advantage.&lt;/p>
+&lt;p>We discussed off-balance above when we were analyzing Flourish. Its not a great status effect, but its not bad either. The really impactful part of Rush Attack is that you get to move 9m on your action, likely doubling your movement, allowing you to close onto that pesky spell caster on their back lines. This ability does what Mobile Shot was trying to do.&lt;/p>
+&lt;h3 id="tenacity---c-tier">Tenacity - C Tier
+&lt;/h3>&lt;p>&lt;img src="https://www.aestusguides.com/articles/baldurs-gate-3-weapons-tier-list/tenacity.png"
+width="150"
+height="150"
+srcset="https://www.aestusguides.com/articles/baldurs-gate-3-weapons-tier-list/tenacity_hu_a14651c00ded242f.png 480w, https://www.aestusguides.com/articles/baldurs-gate-3-weapons-tier-list/tenacity_hu_4763aa45b94a45f2.png 1024w"
+loading="lazy"
+alt="Tenacity"
+class="gallery-image"
+data-flex-grow="100"
+data-flex-basis="240px"
+>&lt;/p>
+&lt;p>If you miss an attack, you may spend your reaction to deal your strength modifier in damage anyways.&lt;/p>
+&lt;p>The damage is low and it costs your reaction. At its best its 5 or so extra damage per short rest. Underwhelming, but technically not useless.&lt;/p>
+&lt;h3 id="topple---b-tier">Topple - B Tier
+&lt;/h3>&lt;p>&lt;img src="https://www.aestusguides.com/articles/baldurs-gate-3-weapons-tier-list/topple.png"
+width="150"
+height="150"
+srcset="https://www.aestusguides.com/articles/baldurs-gate-3-weapons-tier-list/topple_hu_1b43d3e60196a57b.png 480w, https://www.aestusguides.com/articles/baldurs-gate-3-weapons-tier-list/topple_hu_f41cd0f7a2afc07c.png 1024w"
+loading="lazy"
+alt="Topple"
+class="gallery-image"
+data-flex-grow="100"
+data-flex-basis="240px"
+>&lt;/p>
+&lt;p>The target makes a dexterity saving throw. If they fail they are knocked prone for two rounds. A prone target has disadvantage on strength and dexterity saving throws and all attacks against the target made within 3m have advantage. A target may stand up at the cost of half of its movement.&lt;/p>
+&lt;p>Since this is unique to staffs, its functions as an escape for your squishy caster. That is nice to have. It doesn’t require an attack role either, which really helps. This weapon action does its job.&lt;/p>
+&lt;h3 id="weakening-strike---b-tier">Weakening Strike - B Tier
+&lt;/h3>&lt;p>&lt;img src="https://www.aestusguides.com/articles/baldurs-gate-3-weapons-tier-list/weakening_strike.png"
+width="150"
+height="150"
+srcset="https://www.aestusguides.com/articles/baldurs-gate-3-weapons-tier-list/weakening_strike_hu_f48ede2ca4dc4ea5.png 480w, https://www.aestusguides.com/articles/baldurs-gate-3-weapons-tier-list/weakening_strike_hu_1f6723076e5834df.png 1024w"
+loading="lazy"
+alt="Weakening Strike"
+class="gallery-image"
+data-flex-grow="100"
+data-flex-basis="240px"
+>&lt;/p>
+&lt;p>The character makes a single standard attack as an action. If the attack hits it deals damage as normal but as if your weapon has 1d4 base damage. Moreover, the target must make a strength saving throw or receive the weak grip condition for two turns. A target with weak grip has disadvantage on attack roles and strength saving throws.&lt;/p>
+&lt;p>I’m not impressed with weak grip as a condition. Strength saving throws are rare (Entangle, Ensnaring Strike, Backbreaker). Disadvantage on attack roles is good, but not fight changing, and it takes to hits to get that effect. Not useless, but not great either.&lt;/p>
+&lt;h2 id="weapon-actions-final-rankings">Weapon Actions Final Rankings
+&lt;/h2>&lt;p>&lt;strong>S Tier:&lt;/strong>&lt;/p>
+&lt;p>Concussive Smash, Heartstopper, Pommel Strike&lt;/p>
+&lt;p>&lt;strong>A Tier:&lt;/strong>&lt;/p>
+&lt;p>Flourish, Piercing Strike/Shot, Prepare, Rush Attack&lt;/p>
+&lt;p>&lt;strong>B Tier:&lt;/strong>&lt;/p>
+&lt;p>Backbreaker, Crippling Strike, Hamstring Shot, Lacerate, Topple, Weakening Strike&lt;/p>
+&lt;p>&lt;strong>C Tier:&lt;/strong>&lt;/p>
+&lt;p>Brace, Cleave, Tenacity&lt;/p>
+&lt;p>&lt;strong>RP Tier:&lt;/strong>&lt;/p>
+&lt;p>Mobile Shot&lt;/p>
+&lt;h2 id="list-of-conditions">List of Conditions
+&lt;/h2>&lt;p>&lt;strong>Bleeding:&lt;/strong> A bleeding creature takes two slashing damage at the beginning of their turn and has disadvantage on constitution saving throws.&lt;/p>
+&lt;p>&lt;strong>Chest Trauma:&lt;/strong> A target with chest trauma has disadvantage on constitution saving throws and loses their standard action.&lt;/p>
+&lt;p>&lt;strong>Crippled:&lt;/strong> A crippled target’s movement is reduced to 0 and they have disadvantage on dexterity saving throws.&lt;/p>
+&lt;p>&lt;strong>Dazed:&lt;/strong> A dazed creature has disadvantage on wisdom saving throws, cannot take reactions, and loses their dexterity bonus to armor class.&lt;/p>
+&lt;p>&lt;strong>Gaping Wounds:&lt;/strong> A target with gaping wounds takes an additional two piercing damage when hit by an attack. Gaping wounds is removed if the target is healed.&lt;/p>
+&lt;p>&lt;strong>Hamstrung&lt;/strong>: A hamstrung target has their movement reduced by 50%.&lt;/p>
+&lt;p>&lt;strong>Off-Balance:&lt;/strong> A creature that is off-balance has disadvantage on strength and saving throws and the next attack against them is made with advantage.&lt;/p>
+&lt;p>&lt;strong>Prone:&lt;/strong> A prone target has disadvantage on strength and dexterity saving throws and all attacks against the target made within 3m have advantage. A target may stand up at the cost of half of its movement.&lt;/p>
+&lt;p>&lt;strong>Weak Grip:&lt;/strong> A target with weak grip has disadvantage on attack roles and saving throws.&lt;/p>
+&lt;h2 id="unique-weapons-tier-list">Unique Weapons Tier List
+&lt;/h2>&lt;p>Now let’s turn our attention to the unique weapons in the game. As is customary, I’ll begin with some important disclaimers.&lt;/p>
+&lt;p>By “unique weapons&amp;rsquo;&amp;rsquo; I mean weapons (and shields) that have a unique enchantment. The focus of this article is testing and ranking unique mechanics on weapons. There are some non-magical items that have a unique look or name – like the scrap sword or whipping cane – these are not included. Similarly, there are enchanted weapons that are not unique, like a simple +1 dagger, or any generic +1 weapon, these aren’t included. I do not include Phalar Aluve, because even though it has a unique look and name, mechanically it’s just a generic +1 longsword. Conversely, I do include the +1 Light Hammer that you can get at the forge outside the magic tower because even though it has a generic name, it does have a unique, mechanical enchantment.&lt;/p>
+&lt;p>I’ve left out info on how to get these items to avoid spoilers. If you don’t care about that being spoiled, &lt;a class="link" href="https://www.reddit.com/r/BaldursGate3/comments/wcp34b/baldurs_gate_3_relevant_items_spreadsheet_updated/?utm_source=share&amp;amp;utm_medium=web2x&amp;amp;context=3" target="_blank" rel="noopener"
+>this redditer&lt;/a> has already compiled a full list of unique items and where to acquire them.&lt;/p>
+&lt;p>I will say it again in case you skipped the intro, if you are thinking “I can probably figure out the relative usefulness of these weapons by reading their wiki entries. I don’t need Aestus to tell me which weapons are good.” I will remind you, &lt;strong>many of these weapons do not do what they say they do&lt;/strong>, including some of your favorites, like the Staff of Arcane Blessing. I painstakingly tested these weapons to find out what they actually do.Even after all my testing, I am sure I missed some things or made some mistakes. If you catch something I missed, let me know and I will update the article.&lt;/p>
+&lt;h3 id="tiers-1">Tiers
+&lt;/h3>&lt;p>&lt;strong>S Tier:&lt;/strong> Consistently amazing weapons; sometimes weapons worth building your character/party around, or ones that offer something important to already optimal strategies. Basically, they offer something potent that you can’t duplicate in another way. I try to get these weapons as soon as possible on my runs&lt;/p>
+&lt;p>&lt;strong>A Tier:&lt;/strong> Consistently good or situationally amazing weapons. These are powerful weapons, still good enough to use as your main weapon. Some of them are good as side-arms that you swap into for certain situations. They are great, but not as game-changing as S-tier.&lt;/p>
+&lt;p>&lt;strong>B Tier:&lt;/strong> Just average weapons. As a general rule, B-tier weapons are close in power to a generic +1 weapon of the same type.&lt;/p>
+&lt;p>&lt;strong>C Tier:&lt;/strong> These weapons are underwhelming. Barely better than a non-magical item. You can sell them without a second thought.&lt;/p>
+&lt;p>&lt;strong>RP Tier:&lt;/strong> For those special weapons that just don’t work. Don’t use these weapons for any purpose other than role-playing.&lt;/p>
+&lt;p>&lt;img src="https://cdn.sanity.io/images/si39ve47/production/a847bed635e7f60f097998bf37a97c0273fae9ff-150x150.png?w=150&amp;amp;auto=format"
+loading="lazy"
+alt="Absolute’s Warboard_BG3"
+>&lt;/p>
+&lt;h3 id="absolutes-warboard---b-tier">Absolute&amp;rsquo;s Warboard - B Tier
+&lt;/h3>&lt;p>Weapon Type: Shield&lt;/p>
+&lt;p>The Word of the Absolute: This is an activatable ability that refreshes on a short rest. All unbranded targets in the area of effect receive the Bane condition for two turns. There is no saving throw to resist and this ability.&lt;/p>
+&lt;p>Patch 7 nerfed this item into oblivion. Before this patch I was saying it was the strongest item in the game, and now I struggle to get any value out of it at all. I am provisionally ranking it as a B-tier until I can better test the Word of the Absolute, because it isn&amp;rsquo;t functioning the way it used to.&lt;/p>
+&lt;p>&lt;img src="https://cdn.sanity.io/images/si39ve47/production/d939cd2a4fde106ab7d257025162bc2f2d32f7a3-150x150.png?w=150&amp;amp;auto=format"
+loading="lazy"
+alt="Adamantine Longsword_BG3"
+>&lt;/p>
+&lt;h3 id="adamantine-longsword---b-tier">Adamantine Longsword - B Tier
+&lt;/h3>&lt;p>Weapon Type: Longsword&lt;/p>
+&lt;p>Versatile Hitter: Hits with this weapon send the target reeling for one turn if it is used with one hand and two turns if it is used with two.&lt;/p>
+&lt;p>Note: there is no saving throw to resist the reeling condition. A reeling target has a -1 penalty to attack roles.&lt;/p>
+&lt;p>All of the Adamantine weapons are identical in effect, so I will use the same review for all of them. Reeling is fine. It&amp;rsquo;s just fine. You can count on this weapon, I just prefer my weapons to do damage.&lt;/p>
+&lt;p>&lt;img src="https://cdn.sanity.io/images/si39ve47/production/abac72db573dc379a21e6a7ee9d7899af81a3de2-150x150.png?w=150&amp;amp;auto=format"
+loading="lazy"
+alt="Adamantine Mace_BG3"
+>&lt;/p>
+&lt;h3 id="adamantine-mace---b-tier">Adamantine Mace - B Tier
+&lt;/h3>&lt;p>Weapon Type: Mace&lt;/p>
+&lt;p>Swift Hitter: Hits with this weapon send the target reeling for one turn.&lt;/p>
+&lt;p>Note: there is no saving throw to resist the reeling condition. A reeling target has a -1 penalty to attack roles.&lt;/p>
+&lt;p>All of the Adamantine weapons are identical in effect, so I will use the same review for all of them. Reeling is fine. Its just fine. You can count on this weapon, I just prefer my weapons to do damage.&lt;/p>
+&lt;p>&lt;img src="https://cdn.sanity.io/images/si39ve47/production/2d0498267dc9a9d4fb5898813a15193b536c68d5-150x150.png?w=150&amp;amp;auto=format"
+loading="lazy"
+alt="Adamantine Scimitar_BG3"
+>&lt;/p>
+&lt;h3 id="adamantine-scimitar---b-tier">Adamantine Scimitar - B Tier
+&lt;/h3>&lt;p>Weapon Type: Scimitar&lt;/p>
+&lt;p>Shift Hitter: Hits with this weapon send the target reeling for one turn.&lt;/p>
+&lt;p>Note: there is no saving throw to resist the reeling condition. A reeling target has a -1 penalty to attack roles.&lt;/p>
+&lt;p>All of the Adamantine weapons are identical in effect, so I will use the same review for all of them. Reeling is fine. Its just fine. You can count on this weapon, I just prefer my weapons to do damage.&lt;/p>
+&lt;p>&lt;img src="https://cdn.sanity.io/images/si39ve47/production/83a729b4e2b46439b9d9f57999a8a1631287bced-150x150.png?w=150&amp;amp;auto=format"
+loading="lazy"
+alt="Blooded Greataxe_BG3"
+>&lt;/p>
+&lt;h3 id="blooded-greataxe---b-tier">Blooded Greataxe - B Tier
+&lt;/h3>&lt;p>Weapon Type: Greataxe&lt;/p>
+&lt;p>Relentless Revenge: When the wielder has 50% hit points or less, they deal an additional 1d6 slashing damage.&lt;/p>
+&lt;p>This effect is honestly pretty good, since martials are incentivized by other items to flirt with the 50% HP line anyways. Greataxe’s also get the very fun Prepare weapon action. Its big issue is that heavy, two-handed weapons that do slashing damage are a stacked category, so this axe ends up way down the list.&lt;/p>
+&lt;p>&lt;img src="https://cdn.sanity.io/images/si39ve47/production/0b58c90ba442a5c3fb1094dbe003a4fb537bf04d-150x150.png?w=150&amp;amp;auto=format"
+loading="lazy"
+alt="Club_BG3"
+>&lt;/p>
+&lt;h3 id="club-of-hill-giant-strength---b-tier">Club of Hill Giant Strength - B Tier
+&lt;/h3>&lt;p>Weapon Type: Club&lt;/p>
+&lt;p>Splinter’s of a Giant’s Might: While wielding this weapon, the user’s strength is set to 15.&lt;/p>
+&lt;p>Its not good enough to be A-tier, but I use it on a lot of my runs. Its good to give to Wyll, since he only has a +1 modifier in both strength and dexterity. Mostly I just love the convenience of the carry weight boost on a weak party member!&lt;/p>
+&lt;p>&lt;img src="https://cdn.sanity.io/images/si39ve47/production/5b4ad7db32fdbaabbdc4646c71758c620a5bf96d-150x150.png?w=150&amp;amp;auto=format"
+loading="lazy"
+alt="Corellon’s Grace_BG3"
+>&lt;/p>
+&lt;h3 id="corellons-grace---a-tier">Corellon&amp;rsquo;s Grace - A Tier
+&lt;/h3>&lt;p>Weapon Type: Staff&lt;/p>
+&lt;p>Unhampered Resistance: If the user of this staff takes damage while they are not wearing armor (robes are ok), they gain a 1d4 bonus to saving throws for two turns.&lt;/p>
+&lt;p>Note: The tooltip says “if they get attack while not wearing armor…” but this is incorrect. Right now, as I say above, the effect procs whenever they take damage while not wearing armor. That means it will proc when they get hit by an attack. It also means it will proc if they take damage from something that isn’t an attack, for example, a spell, or a ground effect.&lt;/p>
+&lt;p>This is for your backline magic user to hold. The effect stacks with Bless, giving you, on average, a +5 to your saving throws. That is obviously amazing, but you have to risk losing your saving throw to get it. I prefer to just hide and not risk getting hit while I am concentrating and use a weapon that gives me a more proactive ability. Nevertheless, I can’t deny that this weapon is good.&lt;/p>
+&lt;p>&lt;img src="https://cdn.sanity.io/images/si39ve47/production/8f2eb860f5f89cb4b98b49ed1a299a2d25135cf6-150x150.png?w=150&amp;amp;auto=format"
+loading="lazy"
+alt="Deep Delver_BG3"
+>&lt;/p>
+&lt;h3 id="deep-delver---b-tier">Deep Delver - B Tier
+&lt;/h3>&lt;p>Weapon Type: Warpick&lt;/p>
+&lt;p>Dig Deep: Inflicts a condition on hit which lasts for three rounds, no save. Hits with the Deep Delver against targets with the condition deal an additional 1d4 piercing damage&lt;/p>
+&lt;p>This is a very underwhelming item by the time you get it. It gives a little more damage on consecutive hits. Just pass. If you want to use a warpick, go for a generic +1 version.&lt;/p>
+&lt;p>&lt;img src="https://cdn.sanity.io/images/si39ve47/production/83a729b4e2b46439b9d9f57999a8a1631287bced-150x150.png?w=150&amp;amp;auto=format"
+loading="lazy"
+alt="Doom Axe_BG3"
+>&lt;/p>
+&lt;h3 id="doom-axe---c-tier">Doom Axe - C Tier
+&lt;/h3>&lt;p>Weapon Type: Greataxe&lt;/p>
+&lt;p>Edge of Terror: Hits inflict a status condition that prevent the target from regaining hit points for two turns. Undead targets also have disadvantage on their attacks for the duration.&lt;/p>
+&lt;p>It is offering an effect you can already get from a cantrip. Pass.&lt;/p>
+&lt;p>&lt;img src="https://cdn.sanity.io/images/si39ve47/production/9fcb4d41bc7ab088c087cf63992ca7c4fb036827-150x150.png?w=150&amp;amp;auto=format"
+loading="lazy"
+alt="Dragon’s Grasp_BG3"
+>&lt;/p>
+&lt;h3 id="dragons-grasp---c-tier">Dragon&amp;rsquo;s Grasp - C Tier
+&lt;/h3>&lt;p>Weapon Type: Handaxe&lt;/p>
+&lt;p>Burned Alive: Deals an additional 1d4 slashing damage to burning targets.&lt;/p>
+&lt;p>Its low damage and very situational, so not worth more words than this.&lt;/p>
+&lt;p>&lt;img src="https://cdn.sanity.io/images/si39ve47/production/199042f86630a4701dc0c860aa2503fc619caf8b-150x150.png?w=150&amp;amp;auto=format"
+loading="lazy"
+alt="Everburn_BG3"
+>&lt;/p>
+&lt;h3 id="everburn-blade---a-tier">Everburn Blade - A Tier
+&lt;/h3>&lt;p>Weapon Type: Greatsword&lt;/p>
+&lt;p>Ever-Burning: An arcane flame that cannot be quenched; deals an extra 1d4 fire damage on hit.&lt;/p>
+&lt;p>It’s a consistent and high damage heavy weapon that you can get early. Unlike others I’ve met on BG3 forums, I don’t consider it the best two-handed weapon in the game, or even the third best. Its still good though.&lt;/p>
+&lt;p>&lt;img src="https://cdn.sanity.io/images/si39ve47/production/83a729b4e2b46439b9d9f57999a8a1631287bced-150x150.png?w=150&amp;amp;auto=format"
+loading="lazy"
+alt="Exterminator’s Axe_BG3"
+>&lt;/p>
+&lt;h3 id="exterminators-axe---b-tier">Exterminator&amp;rsquo;s Axe - B Tier
+&lt;/h3>&lt;p>Weapon Type: Greataxe&lt;/p>
+&lt;p>Scourge of Pests: Deals an additional 1d6 fire damage to plants, insects, and small creatures.&lt;/p>
+&lt;p>A situational version of Blooded Greataxe. Not much to say here, its worth it if you are fighting the creatures its good against, otherwise its just a greataxe. I typically just sell this.&lt;/p>
+&lt;p>&lt;img src="https://cdn.sanity.io/images/si39ve47/production/26864fe2c5064444c19a44e79aff68a43f77dce4-150x150.png?w=150&amp;amp;auto=format"
+loading="lazy"
+alt="Faithbreaker_BG3"
+>&lt;/p>
+&lt;h3 id="faithbreaker---s-tier">Faithbreaker - S Tier
+&lt;/h3>&lt;p>Weapon Type: Warhammer&lt;/p>
+&lt;p>+1 Enchantment&lt;/p>
+&lt;p>Absolute Power: You make a special attack which deals an additional 1d6 force damage and pushes the target back 5m on a hit. You can use this attack once per short rest.&lt;/p>
+&lt;p>Note: Unlike the Battlemaster Maneuver Pushing Attack, there is no saving throw to resist the pushing effect on Absolute Power. You can also use this ability to push targets that otherwise couldn’t be pushed with shove, because they are too heavy.&lt;/p>
+&lt;p>Pushing targets can easily add guaranteed double digit damage in BG3, either from fall damage or from pushing into Cloud of Daggers. Faithbreaker offers the best push in the game. Not only can it push heavy creatures, it does it without a saving throw, all you need to do is hit the attack. This is the best one-handed weapon in the game in my opinion.&lt;/p>
+&lt;p>&lt;img src="https://cdn.sanity.io/images/si39ve47/production/5fe0655d97f51f914565ed680470fd3f3b45d592-150x150.png?w=150&amp;amp;auto=format"
+loading="lazy"
+alt="Firestoker_BG3"
+>&lt;/p>
+&lt;h3 id="firestoker---c-tier">Firestoker - C Tier
+&lt;/h3>&lt;p>Weapon Type: Hand Crossbow&lt;/p>
+&lt;p>Burned Alive: Deals an additional 1d4 slashing damage to burning targets.&lt;/p>
+&lt;p>It&amp;rsquo;s the crossbow version of Dragon’s Grasp that you get much later on your runs. Completely underwhelming.&lt;/p>
+&lt;p>&lt;img src="https://cdn.sanity.io/images/si39ve47/production/a859181d67b18bd177c097d0c01f5df14d7a38e7-150x150.png?w=150&amp;amp;auto=format"
+loading="lazy"
+alt="Giant Breaker_BG3"
+>&lt;/p>
+&lt;h3 id="giantbreaker---b-tier">Giantbreaker - B Tier
+&lt;/h3>&lt;p>Weapon Type: Heavy Crossbow&lt;/p>
+&lt;p>Heavy Hitter: Hits with this weapon send the target reeling for two turns.&lt;/p>
+&lt;p>Note: there is no saving throw to resist the reeling condition. A reeling target has a -1 penalty to attack roles.&lt;/p>
+&lt;p>Reeling is fine. Its just fine. You can count on this weapon. It’s one of the better ranged weapons probably. I just prefer my weapons to do damage.&lt;/p>
+&lt;p>&lt;img src="https://cdn.sanity.io/images/si39ve47/production/260287cc8a1875ce02ff6328eb43a3fa567df5f7-150x150.png?w=150&amp;amp;auto=format"
+loading="lazy"
+alt="Gith Corssbow_BG3"
+>&lt;/p>
+&lt;h3 id="githyanki-crossbow---b-tier">Githyanki Crossbow - B Tier
+&lt;/h3>&lt;p>Weapon Type: Heavy Crossbow&lt;/p>
+&lt;p>Psychic Vengeance: When the user is below 50% health, hits with this weapon deal an extra 1d4 psychic damage.&lt;/p>
+&lt;p>Some people report that, despite what the tooltip says, some Gith weapons do more damage than others. In all my tests, every Gith weapon functions the same. So I copy and past this review for each.&lt;/p>
+&lt;p>It’s a small boost to damage that is situational. However, psychic damage is seldom resisted, and dropping below 50% is fairly common, since other items also incentivize it.&lt;/p>
+&lt;p>&lt;img src="https://cdn.sanity.io/images/si39ve47/production/628e932bcca93e6ed54959593a1fcc8a23497827-150x150.png?w=150&amp;amp;auto=format"
+loading="lazy"
+alt="Gith Greatsword_BG3"
+>&lt;/p>
+&lt;h3 id="githyanki-greatsword---b-tier">Githyanki Greatsword - B Tier
+&lt;/h3>&lt;p>Weapon Type: Greatsword&lt;/p>
+&lt;p>Psychic Vengeance: When the user is below 50% health, hits with this weapon deal an extra 1d4 psychic damage.&lt;/p>
+&lt;p>Some people report that, despite what the tooltip says, some Gith weapons do more damage than others. In all my tests, every Gith weapon functions the same. So I copy and past this review for each.&lt;/p>
+&lt;p>It’s a small boost to damage that is situational. However, psychic damage is seldom resisted, and dropping below 50% is fairly common, since other items also incentivize it.&lt;/p>
+&lt;p>&lt;img src="https://cdn.sanity.io/images/si39ve47/production/d63bc702dded73c26ce01736d72a3070ea24963e-150x150.png?w=150&amp;amp;auto=format"
+loading="lazy"
+alt="Gith Longsword_BG3"
+>&lt;/p>
+&lt;h3 id="githyanki-longsword---b-tier">Githyanki Longsword - B Tier
+&lt;/h3>&lt;p>Weapon Type: Longsword&lt;/p>
+&lt;p>Psychic Vengeance: When the user is below 50% health, hits with this weapon deal an extra 1d4 psychic damage.&lt;/p>
+&lt;p>Some people report that, despite what the tooltip says, some Gith weapons do more damage than others. In all my tests, every Gith weapon functions the same. So I copy and past this review for each.&lt;/p>
+&lt;p>It’s a small boost to damage that is situational. However, psychic damage is seldom resisted, and dropping below 50% is fairly common, since other items also incentivize it.&lt;/p>
+&lt;p>&lt;img src="https://cdn.sanity.io/images/si39ve47/production/9aaa247ecff9254ea0f2e93b7ef9932086821915-150x150.png?w=150&amp;amp;auto=format"
+loading="lazy"
+alt="Gith Shortsword_BG3"
+>&lt;/p>
+&lt;h3 id="githyanki-shortsword---b-tier">Githyanki Shortsword - B Tier
+&lt;/h3>&lt;p>Weapon Type: Shortsword&lt;/p>
+&lt;p>Psychic Vengeance: When the user is below 50% health, hits with this weapon deal an extra 1d4 psychic damage.&lt;/p>
+&lt;p>Some people report that, despite what the tooltip says, some Gith weapons do more damage than others. In all my tests, every Gith weapon functions the same. So I copy and past this review for each.&lt;/p>
+&lt;p>It’s a small boost to damage that is situational. However, psychic damage is seldom resisted, and dropping below 50% is fairly common, since other items also incentivize it.&lt;/p>
+&lt;p>&lt;img src="https://cdn.sanity.io/images/si39ve47/production/a3b9c1572dcf0007933b8bbf1cd810b76da88bc2-150x150.png?w=150&amp;amp;auto=format"
+loading="lazy"
+alt="Glowing Shield_BG3"
+>&lt;/p>
+&lt;h3 id="glowing-shield---b-tier">Glowing Shield - B Tier
+&lt;/h3>&lt;p>Weapon Type: Shield&lt;/p>
+&lt;p>Loving Protection: Once per short rest, if you are below 50% Hit Points and take damage, you gain 8 temporary hit points.&lt;/p>
+&lt;p>It’s 8 temporary hit points per short rest, which adds up to 24 per long rest if you maximize it. It is boring, but not insignificant.&lt;/p>
+&lt;p>&lt;img src="https://cdn.sanity.io/images/si39ve47/production/7ef818ae7aee0e168d5e94168ee9d0d1e1124b25-150x150.png?w=150&amp;amp;auto=format"
+loading="lazy"
+alt="Intransigent Warhammer_BG3"
+>&lt;/p>
+&lt;h3 id="intransigent-warhammer---a-tier">Intransigent Warhammer - A Tier
+&lt;/h3>&lt;p>Weapon Type: Warhammer&lt;/p>
+&lt;p>Impulse Blast: Knocks nearby enemies prone after killing a target or getting a critical hit&lt;/p>
+&lt;p>Note: I missed this item on my last run, so I haven’t tested it this patch. I’m going off memory here, but I believe it knocks targets back as well as down.&lt;/p>
+&lt;p>Knock back effects are often useful. You can force the proc with any auto crit mechanic, meaning you can control when you want to get this effect to some extent.&lt;/p>
+&lt;p>&lt;img src="https://cdn.sanity.io/images/si39ve47/production/e339ecd221e876e6905183389adbd85b86560fb5-150x150.png?w=150&amp;amp;auto=format"
+loading="lazy"
+alt="Jagged Spear_BG3"
+>&lt;/p>
+&lt;h3 id="jagged-spear---a-tier">Jagged Spear - A Tier
+&lt;/h3>&lt;p>Weapon Type: Spear&lt;/p>
+&lt;p>Torturer’s Edge: Hits with this weapon impose the tortured status condition. A tortured target has disadvantage on constitution saving throws.&lt;/p>
+&lt;p>Note: the status condition procs on 100% of hits, there is no saving throw.&lt;/p>
+&lt;p>This is an enabling weapon, not a DPR weapon. There are some good spells that target constitution (ex: Thunderwave, Ray of Enfeeblement, Shatter, Moonbeam, etc). The fact that there is no save to resist the disadvantage really puts it over into A-tier. Put this on a character who is tanky but isn’t a striker (like Shadowheart, for example).&lt;/p>
+&lt;p>&lt;img src="https://cdn.sanity.io/images/si39ve47/production/1fa2e3ecdbae2297b28b7a539cf6ec845d7ddafb-150x150.png?w=150&amp;amp;auto=format"
+loading="lazy"
+alt="Light of Creation_BG3"
+>&lt;/p>
+&lt;h3 id="light-of-creation---a-tier">Light of Creation - A Tier
+&lt;/h3>&lt;p>Weapon Type: Halberd&lt;/p>
+&lt;p>+1 Enchantment&lt;/p>
+&lt;p>Unnamed: Deals an additional 1d6 lightening damage on hit but has a chance to stun the wielder for one turn if they are not a construct.&lt;/p>
+&lt;p>Note: This weapon stuns the wielder on about 20% of hits. However, what many people seem not to know is that you don’t actually lose a full turn from the stun. It prevents you from taking any more actions on your current turn, but the stun ends on the beginning of your next turn, allowing you to act normally. So, you lose whatever actions you had remaining on the turn you get stunned, and enemies have advantage on melee attacks against you until your next turn.&lt;/p>
+&lt;p>I love this weapon! It just does so much damage. It’s the highest, unconditional DPR weapon in the game so far, and that isn’t even factoring in that it does lightning damage, which you can double with Create Water. Assuming a base 75% chance to hit and a 16 strength, this weapon will average 13.83 damage per attack against a wet target, or 21.13 with Great Weapon Master!&lt;/p>
+&lt;p>&lt;img src="https://cdn.sanity.io/images/si39ve47/production/7fae0c9cfc67252f714fc8783f8d20658582a94b-150x150.png?w=150&amp;amp;auto=format"
+loading="lazy"
+alt="Loviatar’s Scourge_BG3"
+>&lt;/p>
+&lt;h3 id="loviatars-scourge---c-tier">Loviatar&amp;rsquo;s Scourge - C Tier
+&lt;/h3>&lt;p>Weapon Type: Mace&lt;/p>
+&lt;p>Willing Whip: Grants resistance to necrotic damage. Deals an additional 1d6 necrotic damage to nearby targets, including the wielder.&lt;/p>
+&lt;p>Note: This item is currently bugged, so that it does not deal the additional necrotic damage as the tooltip says.&lt;/p>
+&lt;p>Because its bugged, this only give you resistance to necrotic damage, which isn’t very common, so C-tier.&lt;/p>
+&lt;p>&lt;img src="https://cdn.sanity.io/images/si39ve47/production/39435565fdcaee67e8902dc7e2ba9bcdb4cb839d-150x150.png?w=150&amp;amp;auto=format"
+loading="lazy"
+alt="Nature’s Snare_BG3"
+>&lt;/p>
+&lt;h3 id="natures-snare---b-tier">Nature&amp;rsquo;s Snare - B Tier
+&lt;/h3>&lt;p>Weapon Type: Staff&lt;/p>
+&lt;p>Fly Trap: There is a chance to ensnare the target. Plant and beast creatures are immune.&lt;/p>
+&lt;p>Note: I’m not sure exactly how often the target is ensnared, but my experience is about 20% of attacks. Notice that I said “attacks” not “hits.” Fly Trap will proc even if your attack misses. When it procs the target is automatically ensnared without a saving throw. On subsequent turns, they will make a strength saving throw to break free. The DC is 10 + Int Mod or 10 + Spell Attribute Mod if you are a caster class (you should be if you use this weapon). The ensnared condition procs damage on the first turn they are ensnared as well as on every subsequent turn before they roll their saving throw (so there are at least 2 guaranteed procs).&lt;/p>
+&lt;p>Assuming I am right about the 20% proc rate, this feature adds around 1 damage per attack, which isn’t shabby as a feature, but on a quarterstaff its not going to add up to good DPR. You also can’t rely on the entangle procing when you need it.&lt;/p>
+&lt;p>&lt;img src="https://cdn.sanity.io/images/si39ve47/production/2e202c898d42fe50a1d97a94f17c19e88eaffe87-150x150.png?w=150&amp;amp;auto=format"
+loading="lazy"
+alt="Paleoak_BG3"
+>&lt;/p>
+&lt;h3 id="paleoak---b-tier">Paleoak - B Tier
+&lt;/h3>&lt;p>Weapon Type: Staff&lt;/p>
+&lt;p>Faithwarden’s Vines: Allows you to cast Entangle as a lvl 1 spell once per long rest.&lt;/p>
+&lt;p>Faithwarden’t Stride: The wielder of this weapon is immune to all effects of the Entangle spell.&lt;/p>
+&lt;p>This is situationally good on Druid, basically allowing you to make attacks with advantage. It may deserve A-tier, but I am just not a fan of Entangle. If you like Entangle and use it often, then consider this A-tier.&lt;/p>
+&lt;p>&lt;img src="https://cdn.sanity.io/images/si39ve47/production/b88f4c06d4ce1fb60adf14f0e19c46d78455585d-150x150.png?w=150&amp;amp;auto=format"
+loading="lazy"
+alt="Raindancer_BG3"
+>&lt;/p>
+&lt;h3 id="raindancer---a-tier">Raindancer - A Tier
+&lt;/h3>&lt;p>Weapon Type: Staff&lt;/p>
+&lt;p>Create Water: May cast Create Water as a lvl 1 spell once per short rest.&lt;/p>
+&lt;p>Unlike Entangle, Create Water is an S-tier spell, and with this item it refreshes on a short rest! Fantastic way to guarantee Create Water casts on solo Wizard runs. Just a fantastic staff in general. I prefer to get this over Corellon’s Grace in the early game, although I do eventually swap it out for the Staff of Arcane Blessing later. Even after swapping it out, I keep this around as a side arm.&lt;/p>
+&lt;p>&lt;img src="https://cdn.sanity.io/images/si39ve47/production/6c1607e15d2c6abcdb12f57dce2b53fb5928fe38-150x150.png?w=150&amp;amp;auto=format"
+loading="lazy"
+alt="Ritual Axe_BG3"
+>&lt;/p>
+&lt;h3 id="ritual-axe---b-tier">Ritual Axe - B Tier
+&lt;/h3>&lt;p>Weapon Type: Handaxe&lt;/p>
+&lt;p>The Scourge Mistress’ Bane: If you deal damage with this weapon, your target receives a 1d4 penalty to attack roles and saving throws for two turns.&lt;/p>
+&lt;p>Note: This does not stack with the Bane spell. There is no saving throw to resist.&lt;/p>
+&lt;p>Bane is a potent debuff, as we have discussed. However, there are already several ways to proc Bane, even on hit (Absolute’s Warboard, Gloves of Power). Because of that, I find I that I rarely use Ritual Axe. If you aren’t using any other Bane item, Ritual Axe could be considered A-tier.&lt;/p>
+&lt;p>&lt;img src="https://cdn.sanity.io/images/si39ve47/production/4df929b0ebbe157501b1a08d8fcc6196a90ea542-150x150.png?w=150&amp;amp;auto=format"
+loading="lazy"
+alt="Ritual Dagger_BG3"
+>&lt;/p>
+&lt;h3 id="ritual-dagger---b-tier">Ritual Dagger - B Tier
+&lt;/h3>&lt;p>Weapon Type: Dagger&lt;/p>
+&lt;p>Blood Sacrifice: As a bonus action, you can deal 1d4 slashing damage to yourself in order to gain a 1d4 bonus to attack roles and saving throws for one round.&lt;/p>
+&lt;p>The Pain Maiden’s Blessing: If you deal damage with this weapon you receive a 1d4 bonus to attack roles and saving throws for one round.&lt;/p>
+&lt;p>Note: the effects do not stack with Bless. However, they also do not require concentration.&lt;/p>
+&lt;p>Similar to Ritual Axe, there are already better ways of getting Bless than to expend a valuable weapon slot.&lt;/p>
+&lt;p>&lt;img src="https://cdn.sanity.io/images/si39ve47/production/4653c7aac597e977d8ff6bf5976979619a79dd6b-150x150.png?w=150&amp;amp;auto=format"
+loading="lazy"
+alt="Shattered Flail_BG3"
+>&lt;/p>
+&lt;h3 id="shattered-flail---a-tier">Shattered Flail - A Tier
+&lt;/h3>&lt;p>Weapon Type: Mace&lt;/p>
+&lt;p>+2 Enchantment&lt;/p>
+&lt;p>Yeenoghu’s Gift: Dealing damage with this weapon heals the user 1d6 hp and instills them with an insatiable hunger – they can go mad if they do not deal damage each turn.&lt;/p>
+&lt;p>Note: In all the times I’ve used Shattered Flail I have never had a character go mad.&lt;/p>
+&lt;p>This is another one of my favorite weapons! It’s the only +2 weapon in the game and it heals on hit as well. If you add up its healing with its damage it averages 5.5 damage swing per hit, which is a lot. For this reason, I like to use it in builds that make lots of attacks.&lt;/p>
+&lt;p>&lt;img src="https://cdn.sanity.io/images/si39ve47/production/aae4893bad957c3b8d573e2add7643ab1e2df3a1-150x150.png?w=150&amp;amp;auto=format"
+loading="lazy"
+alt="SS of First Blood_BG3"
+>&lt;/p>
+&lt;h3 id="shortsword-of-first-blood---a-tier">Shortsword of First Blood - A Tier
+&lt;/h3>&lt;p>Weapon Type: Shortsword&lt;/p>
+&lt;p>Break the Unbroken: Deals an additional 1d8 damage if the target is full health.&lt;/p>
+&lt;p>The value of this really depends on your play style I suppose. It could be either B or A, depending on how you spread out your damage. There isn’t much to explain, it does a lot of damage on first hits. I find that it is good as a main hand weapon for Rogues.&lt;/p>
+&lt;p>&lt;img src="https://cdn.sanity.io/images/si39ve47/production/e0512777fd3eaffbddbabaf3e8ed720d31bf68d6-150x150.png?w=150&amp;amp;auto=format"
+loading="lazy"
+alt="Sickle of Booal_BG3"
+>&lt;/p>
+&lt;h3 id="sickle-of-booal---rp-tier">Sickle of Booal - RP Tier
+&lt;/h3>&lt;p>Weapon Type: Sickle&lt;/p>
+&lt;p>Booal’s Benediction: Give the wielder advantage when attacking bleeding targets.&lt;/p>
+&lt;p>Note: Everyone says it gives you advantage when attacking bleeding victims, but haven’t been able to replicate that.&lt;/p>
+&lt;p>This weapon is bugged right now, making it useless. I expect it would be B-tier,&lt;/p>
+&lt;p>&lt;img src="https://cdn.sanity.io/images/si39ve47/production/545b06506a04f374f545d2b8ad11958e62bad59a-150x150.png?w=150&amp;amp;auto=format"
+loading="lazy"
+alt="Light Hammer &amp;#43;1_BG3"
+>&lt;/p>
+&lt;h3 id="skybreaker---b-tier">Skybreaker - B Tier
+&lt;/h3>&lt;p>Weapon Type: Light Hammer&lt;/p>
+&lt;p>+1 Enchantment&lt;/p>
+&lt;p>Searing Smite: Allows you to use the spell Searing Smite (at 1st level) once per long rest.&lt;/p>
+&lt;p>Searing Smite is a C-tier spell at best, and that’s practically all this item offers. The +1 enchantment is enough to keep it out of C-tier itself though.&lt;/p>
+&lt;p>&lt;img src="https://cdn.sanity.io/images/si39ve47/production/e426f29e45bcb21011a2e78c4f228f3557f2e032-150x150.png?w=150&amp;amp;auto=format"
+loading="lazy"
+alt="Spellthief_BG3"
+>&lt;/p>
+&lt;h3 id="spellthief---s-tier">Spellthief - S Tier
+&lt;/h3>&lt;p>Weapon Type: Longbow&lt;/p>
+&lt;p>Arcane Vehemence: Once per Short Rest, you regain a 1st level Spell Slot when you land a critical hit with the Spellthief.&lt;/p>
+&lt;p>Note: If you crit with a spell or cantrip while wielding Spellthief you still get a spell slot returned.&lt;/p>
+&lt;p>Spells are incredible, and this bow gives you an extra one per short rest (three per long rest). Its easy to guarantee crits in BG3 with Sleep, Tasha’s, Hold Person, etc. If you plan carefully, you can swap this item around to all your spellcasters, making sure each of them get the bonus spells. You don’t need to be proficient in Longbows to use it.&lt;/p>
+&lt;p>&lt;img src="https://cdn.sanity.io/images/si39ve47/production/591e43714ba1a24d25d63f2a2356bd4b40a0d7e6-150x150.png?w=150&amp;amp;auto=format"
+loading="lazy"
+alt="Sorrow_BG3"
+>&lt;/p>
+&lt;h3 id="sorrow---b-tier">Sorrow - B Tier
+&lt;/h3>&lt;p>Weapon Type: Glaive&lt;/p>
+&lt;p>+1 Enchantment&lt;/p>
+&lt;p>Ensnaring Strike: Allows you to use Ensnaring Strike as a level 1 spell once per short rest.&lt;/p>
+&lt;p>Regret: The user takes 1 psychic damage whenever they deal damage with this weapon.&lt;/p>
+&lt;p>This weapon needs a buff in my opinion. The look and the way you get it are so cool, but then it just sucks as a weapon. Its not even the 1 psychic damage that ruins it, its Ensnaring Strike. Its just not a good spell… I’m not sure how to fix it, may make it +2? I also wish basic enchantments would effect the DC of weapon action and spells, that might help.&lt;/p>
+&lt;p>&lt;img src="https://cdn.sanity.io/images/si39ve47/production/811d468b8a0419689ea4d383be634d034744baed-150x150.png?w=150&amp;amp;auto=format"
+loading="lazy"
+alt="Staff of Arcane Blessing_BG3"
+>&lt;/p>
+&lt;h3 id="staff-of-arcane-blessing---s-tier">Staff of Arcane Blessing - S Tier
+&lt;/h3>&lt;p>Weapon Type: Staff&lt;/p>
+&lt;p>Bless: Allows you to cast Bless as a level 1 spell once per long rest.&lt;/p>
+&lt;p>Mystra’s Blessing: When you cast Bless while wielding this staff you gain an additional 1d4 bonus to attack roles and saving throws. This bonus increases to an additional 2d4 for spell attacks.&lt;/p>
+&lt;p>Note: This spell does not do what it says it does. The only effect it gives is a +1d4 (2d4 total) to spell attacks. You do not get any bonuses to normal attack roles and saving throws.&lt;/p>
+&lt;p>Even though it is only a fraction as good as the tooltip says it should be, its still soooo good. This turns spells like Flame Blade and Scorching Ray into killers. You should be spamming Bless anyways, so any boost to Bless is going to add up to a big bonus just from the frequency of the cast.&lt;/p>
+&lt;p>&lt;img src="https://cdn.sanity.io/images/si39ve47/production/949aebb8574926c79e51dbcd1a561f06b7229754-150x150.png?w=150&amp;amp;auto=format"
+loading="lazy"
+alt="Staff of Crones_BG3"
+>&lt;/p>
+&lt;h3 id="staff-of-crones---rp-tier">Staff of Crones - RP Tier
+&lt;/h3>&lt;p>Weapon Type: Staff&lt;/p>
+&lt;p>Ray of Sickness: While wielding this staff, you can cast Ray of Sickness without expending a spell slot. When you do this you simultaneously target yourself with the same spell.&lt;/p>
+&lt;p>If Ray of Sickness didn’t hit you as well as your enemy this would be A-tier, effectively giving you a boosted cantrip. As it is right now, its just not worth using. Feed it to Gale.&lt;/p>
+&lt;p>&lt;img src="https://cdn.sanity.io/images/si39ve47/production/9f6911e0c75929ca9a762530a8ce45880f7c6896-150x150.png?w=150&amp;amp;auto=format"
+loading="lazy"
+alt="Sussur Dagger_BG3"
+>&lt;/p>
+&lt;h3 id="sussur-dagger---a-tier">Sussur Dagger - A Tier
+&lt;/h3>&lt;p>Weapon Type: Dagger&lt;/p>
+&lt;p>+1 Enchantment&lt;/p>
+&lt;p>Silence the Enemy: Silences the target for one turn on hit. There is no save, and it procs on every hit.&lt;/p>
+&lt;p>All of the Sussur weapons are identical in effect, so I will use the same review for all of them. A single target silence that sticks to an enemy is actually better than the AoE Silence spell, because they can’t walk out of a status condition. As I have already said, spell are powerful, so stopping spells from being cast is very valuable.&lt;/p>
+&lt;p>&lt;img src="https://cdn.sanity.io/images/si39ve47/production/6862680eacb196dd62ea419d42b179866c75aa3d-150x150.png?w=150&amp;amp;auto=format"
+loading="lazy"
+alt="Sussur Greatsword_BG3"
+>&lt;/p>
+&lt;h3 id="sussur-greatsword---a-tier">Sussur Greatsword - A Tier
+&lt;/h3>&lt;p>Weapon Type: Greatsword&lt;/p>
+&lt;p>+1 Enchantment&lt;/p>
+&lt;p>Silence the Enemy: Silences the target on hit. There is no save, and it procs on every hit.&lt;/p>
+&lt;p>All of the Sussur weapons are identical in effect, so I will use the same review for all of them. A single target silence that sticks to an enemy is actually better than the AoE Silence spell, because they can’t walk out of a status condition. As I have already said, spell are powerful, so stopping spells from being cast is very valuable.&lt;/p>
+&lt;p>&lt;img src="https://cdn.sanity.io/images/si39ve47/production/463a1529ed91ce313f260f9f5e38b16302b3747d-150x150.png?w=150&amp;amp;auto=format"
+loading="lazy"
+alt="Sussur Sickle_BG3"
+>&lt;/p>
+&lt;h3 id="sussur-sickle---a-tier">Sussur Sickle - A Tier
+&lt;/h3>&lt;p>Weapon Type: Sickle&lt;/p>
+&lt;p>+1 Enchantment&lt;/p>
+&lt;p>Silence the Enemy: Silences the target on hit. There is no save, and it procs on every hit.&lt;/p>
+&lt;p>All of the Sussur weapons are identical in effect, so I will use the same review for all of them. A single target silence that sticks to an enemy is actually better than the AoE Silence spell, because they can’t walk out of a status condition. As I have already said, spell are powerful, so stopping spells from being cast is very valuable.&lt;/p>
+&lt;p>&lt;img src="https://cdn.sanity.io/images/si39ve47/production/bb67bf44a2ab0460d0fc9a9d8d9494374ded1393-150x150.png?w=150&amp;amp;auto=format"
+loading="lazy"
+alt="Sword of Justice_BG3"
+>&lt;/p>
+&lt;h3 id="sword-of-justice---s-tier">Sword of Justice - S Tier
+&lt;/h3>&lt;p>Weapon Type: Greatsword&lt;/p>
+&lt;p>+1 Enchantment&lt;/p>
+&lt;p>Tyr’s Protection: Allows you to cast Shield of Faith on yourself as a bonus action.&lt;/p>
+&lt;p>I couldn’t find a png image for this one, so I used a generic greatsword instead. I consider this to be the best two-handed weapon in the game. It allows for an efficient use of you concentration slot, which many two-handed weapon users don’t have. The extra AC also helps proc Ripostes for Battlemasters. All around an awesome weapon that you can get very early in the game.&lt;/p>
+&lt;p>&lt;img src="https://cdn.sanity.io/images/si39ve47/production/c0a66f98f2fafffb27fc0daa18ac77821cb9fb9d-150x150.png?w=150&amp;amp;auto=format"
+loading="lazy"
+alt="Sword of Screams_BG3"
+>&lt;/p>
+&lt;h3 id="sword-of-screams---a-tier">Sword of Screams - A Tier
+&lt;/h3>&lt;p>Weapon Type: Rapier&lt;/p>
+&lt;p>Screams: Deals an additional 1d4 psychic damage on hit.&lt;/p>
+&lt;p>It&amp;rsquo;s a rapier that will deal an additional 2.5 damage on hit. Like the finesse weapon version of Everburn, only you get it much, much later. Technically it&amp;rsquo;s the highest, one-handed pure damage per hit in the game with no asterisk. I’ve rated it an A-tier, but I think it is still worse than the mainstays of one-handed weapons: Shattered Flail and Faithbreaker.&lt;/p>
+&lt;p>&lt;img src="https://cdn.sanity.io/images/si39ve47/production/93b6fcc105170b4d9915506baf823d52636974a8-150x150.png?w=150&amp;amp;auto=format"
+loading="lazy"
+alt="The Wartcher’s Guide_BG3"
+>&lt;/p>
+&lt;h3 id="the-watchers-guide---b-tier">The Watcher&amp;rsquo;s Guide - B Tier
+&lt;/h3>&lt;p>Weapon Type: Spear&lt;/p>
+&lt;p>Death’s Promise: When the spear misses its target, the wielder&amp;rsquo;s next attack against that target is made with advantage.&lt;/p>
+&lt;p>What’s there to say about this? Its helps you hit more often. There aren’t any tricks for it that I know of. You used to be able to get Death’s Promise on your cantrips by holding The Watcher’s Guide while casting them, but it hasn’t worked for me for a while (it was fixed on Patch 5, my thanks to reddit user Certain_Childhood849 for bringing this to my attention). It could be used to help proc Sneak Attacks, except that it isn’t a finesse weapon, so it can’t. Its just a mediocre weapon, no tricks.&lt;/p>
+&lt;p>&lt;img src="https://cdn.sanity.io/images/si39ve47/production/2d828f238bfa98bf0eedfab90ac00a13d2e97cc7-150x150.png?w=150&amp;amp;auto=format"
+loading="lazy"
+alt="Vision of the Absolute_BG3"
+>&lt;/p>
+&lt;h3 id="vision-of-the-absolute---b-tier">Vision of the Absolute - B Tier
+&lt;/h3>&lt;p>Weapon Type: Spear&lt;/p>
+&lt;p>Absolute Night: There is a chance that you will blind your target for two rounds on hit. Deals an additional 2d6 piercing damage to certain targets that sport multiple eyes.&lt;/p>
+&lt;p>Note: In my tests, I proc blind on around 40% of hits, not attacks. You need to hit to proc the blind. When it procs, there is no saving throw and lasts for two rounds with no saving throw. It does extra damage to spiders and spectators (my thanks to reddit user TrustKind for the correction on spiders).&lt;/p>
+&lt;p>This is one of the better B-tiers in my opinion, and you can get it early. Keep it around for fights against spectators or spiders.&lt;/p>
+&lt;p>&lt;img src="https://cdn.sanity.io/images/si39ve47/production/a161d0c7f6506f0a7568d4f2c3ad246cbe86a822-150x150.png?w=150&amp;amp;auto=format"
+loading="lazy"
+alt="Worgfang_BG3"
+>&lt;/p>
+&lt;h3 id="worgfang---c-tier">Worgfang - C Tier
+&lt;/h3>&lt;p>Weapon Type: Dagger&lt;/p>
+&lt;p>Goblin’s Undoing: Goblins had disadvantage on attacks against the wielder of this weapon.&lt;/p>
+&lt;p>Its decent for clearing the goblin camp, if you prioritize getting it before then. I usually don’t, because I just don’t care about it enough.&lt;/p>
+&lt;p>&lt;img src="https://cdn.sanity.io/images/si39ve47/production/7fae0c9cfc67252f714fc8783f8d20658582a94b-150x150.png?w=150&amp;amp;auto=format"
+loading="lazy"
+alt="Xyanyde_BG3"
+>&lt;/p>
+&lt;h3 id="xyanyde---b-tier">Xyanyde - B Tier
+&lt;/h3>&lt;p>Weapon Type: Mace&lt;/p>
+&lt;p>Xyanyde’s Fire: Chance to encase its target in a sinister Faerie Fire, granting advantage on Attack Rolls against the target.&lt;/p>
+&lt;p>Note: Faerie Fire procs on about 20% of attacks. It can proc on misses.&lt;/p>
+&lt;p>How do you pronounce this name? Is is “Zy-un-ide,” like the word cyanide? That sounds wrong… Maybe “Zy-un-eye-day?” also sounds dumb. I prefer to just change the pronunciation of the second “y’ and pronounce it “Zy-an-ee-day.” Whichever way you prefer, this weapon just isn’t that good. For a debuffing weapon, its better to go with the Jagged Spear.&lt;/p>
+&lt;h2 id="unique-weapons-final-rankings">Unique Weapons Final Rankings
+&lt;/h2>&lt;p>&lt;strong>S Tier:&lt;/strong>&lt;/p>
+&lt;p>Faithbreaker, Spellthief, Staff of Arcane Blessing, Sword of Justice&lt;/p>
+&lt;p>&lt;strong>A Tier:&lt;/strong>&lt;/p>
+&lt;p>Corellon’s Grace, Everburn, Intransigent Warhammer, Jagged Spear, Light of Creation, Rain Dancer, Shattered Flail, Short Sword of First Blood, Sussur Weapons, Sword of Screams.&lt;/p>
+&lt;p>&lt;strong>B Tier:&lt;/strong>&lt;/p>
+&lt;p>Absolute&amp;rsquo;s Warboard, Adamantine Weapons, Blooded Greataxe, Club of Hill Giant Strength, Deep Delver, Exterminator’s Axe, Giantbreaker, Gith Weapons, Glowing Shield, Light Hammer +1, Nature’s Snare, Pale Oak, Ritual Axe, Ritual Dagger, Sorrow, The Watcher’s Guide, Visions of the Absolute, Xyanyde&lt;/p>
+&lt;p>&lt;strong>C Tier:&lt;/strong>&lt;/p>
+&lt;p>Doom Axe, Dragon’s Grasp, Firestoker, Loviatar’s Scourge, Worgfang,&lt;/p>
+&lt;p>&lt;strong>RP Tier:&lt;/strong>&lt;/p>
+&lt;p>Sickle of Booal, Staff of Crones&lt;/p>
+&lt;p>Here is a &lt;a class="link" href="https://docs.google.com/spreadsheets/d/1hEptz8WN_auHCxcLfd0XDAd7cfV0Az7T/edit?usp=sharing&amp;amp;ouid=102922927028635040581&amp;amp;rtpof=true&amp;amp;sd=true" target="_blank" rel="noopener"
+>helpful spreadsheet&lt;/a> I made for myself that charts relative damage per attack of the weapons you would pick for their damage.&lt;/p>
+&lt;h2 id="conclusion">Conclusion
+&lt;/h2>&lt;p>Thanks for reading!&lt;/p>
+&lt;p>If you want to discuss this article with me or others, you can do so &lt;a class="link" href="https://www.reddit.com/r/AestusGuides/comments/std2v6/bg3_weapon_tier_list/?utm_source=share&amp;amp;utm_medium=web2x&amp;amp;context=3" target="_blank" rel="noopener"
+>here&lt;/a>&lt;/p>
+&lt;p>This article has actually been available for early access for over two weeks on my brand new Patreon! I put a lot of time into these articles, and I have plans to write many more. If you want to enable that please consider supporting me through Patreon. There are several tiers which will give you access to loads of exclusive and early access content! You can find my page &lt;a class="link" href="https://www.patreon.com/user?u=52365991&amp;amp;fan_landing=true" target="_blank" rel="noopener"
+>here&lt;/a>.&lt;/p>
+&lt;p>&lt;a class="link" href="https://www.aestusguides.com/articles" >Return home&lt;/a>&lt;/p></description></item></channel></rss>
