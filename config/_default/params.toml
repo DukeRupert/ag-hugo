@@ -19,7 +19,7 @@ subtitle = "Deep dives into classic & modern computer RPGs, featuring advanced g
 [sidebar.avatar]
 enabled = true
 local = true
-src = "img/avatar.png"
+src = "img/aestus_dice_avatar.png"
 
 [article]
 headingAnchor = false
