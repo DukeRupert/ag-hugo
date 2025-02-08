@@ -4,7 +4,7 @@ description: "Comprehensive rankings of unique weapons and weapon actions in BG3
 slug: baldurs-gate-3-weapons-tier-list
 date: 2022-02-15 00:00:00+0000
 lastmod: 2022-02-15 00:00:00+0000
-image: https://cdn.sanity.io/images/si39ve47/production/689ddf7723353a59fce740dea32c231b4a275d21-2360x1640.png?w=600&fm=webp
+image: Greatsword_PlusOne_Icon.png 
 categories:
    - Baldur's Gate 3
    - Tier Lists
@@ -58,9 +58,10 @@ Here is a [reference sheet](https://docs.google.com/spreadsheets/d/1NpwOx9Q2agMM
 
 Ok, let’s get to the list!
 
-![Backbreaker_BG3](https://cdn.sanity.io/images/si39ve47/production/09dfc8292f7c0432005959de4b922016cc456a16-150x150.png?w=150&auto=format)
 
 ### Backbreaker - B Tier
+
+![Backbreaker](backbreaker.png)
 
 The character makes a single standard attack as an action. If the attack hits it deals damage as normal but as if your weapon has 1d4 base damage. Moreover, the target must make a strength saving throw or be knocked prone for two turns. A prone target has disadvantage on strength and dexterity saving throws and all attacks against the target made within 3m have advantage. A target may stand up at the cost of half of its movement.
 
@@ -68,17 +69,19 @@ Note: For some reason Backbreaker has a lower DC than all of the other weapon ac
 
 With this ability you lose a bit of damage and get a (slim) chance of knocking the target prone (slim because this is a double-hit ability; you have to hit the attack and the saving throw to gain full effect). Prone is an average status condition. The best thing you get from it is advantage on attacks, but on their next turn they will just stand up again, so only use this if you have an ally who can attack before they stand back up.
 
-![Brace_BG3](https://cdn.sanity.io/images/si39ve47/production/dc8ea7de4de3cc8b67522b6342cc20e962f953e3-150x150.png?w=150&auto=format)
 
 ### Brace - C Tier
+
+![Brace](brace.png)
 
 You spend 7.5m of movement and for the rest of your turn you roll damage twice and use the highest result.
 
 This ability seems good until you do the math on what rolling damage twice actually does. It adds, on average, 1.65 damage per hit (1.31 for the Longbow). Being able to spend movement (which you often don’t need) to but damage is great, but the damage is just so underwhelming.
 
-![Cleave_BG3](https://cdn.sanity.io/images/si39ve47/production/fcec4b6328a1e6818c6514e05def1e27b358b6a5-150x150.png?w=150&auto=format)
 
 ### Cleave - B Tier
+
+![Cleave](cleave.png)
 
 You attack in a cone that can hit up to 3 targets in front of you. For every attack that hits you deal half of your normal attack damage.
 
@@ -86,65 +89,72 @@ When I released this article I had this ranked C-tier. I've realized now I compl
   
 If you have Great Weapon Master, this is an A-tier action. For everyone else its a B.
 
-![Concussive Smash_BG3](https://cdn.sanity.io/images/si39ve47/production/b13fc8cb9afe8ea4b33f2fad07b25ea35e956501-150x150.png?w=150&auto=format)
 
 ### Concussive Smash - S Tier
+
+![Concussive Smash](concussive_smash.png)
 
 The character makes a standard attack as an action. If the attack hits the target must make a constitution saving throw or receive the dazed condition for two turns. A dazed creature has disadvantage on wisdom saving throws, cannot take reactions, and loses their dexterity bonus to armor class.
 
 Dazed is an overpowered status condition. Wisdom save spells are the most potent (Tasha’s, Hold Person, etc), so imposing disadvantage on wisdom saves is already enough to make this good. Add on that the target also loses their dexterity bonus to AC and we are in OP territory now. This makes a perfect set-up for Menacing Strike (with an action surge), which is already one of the best control features in the game. Even with all of that, this is still the weakest S-tier weapon action. Keep reading!
 
-![Crippling Strike_BG3](https://cdn.sanity.io/images/si39ve47/production/dd6d3f66d4250040b176dfb334ba848d9007cb15-150x150.png?w=150&auto=format)
 
 ### Crippling Strike - B Tier
+
+![Crippling Strike](crippling_strike.png)
 
 The character makes a single standard attack as an action. If the attack hits it deals damage as normal but as if your weapon has 1d4 base damage. Moreover, the target must make a constitution saving throw or receive the crippled condition for two turns. A crippled target’s movement is reduced to 0 and they have disadvantage on dexterity saving throws.
 
 A slightly better version of Backbreaker. Not good enough to move it into A-tier.
 
-![Flourish_BG3](https://cdn.sanity.io/images/si39ve47/production/bed1b505909ecf5d3320589832de66b860724a00-150x150.png?w=150&auto=format)
 
 ### Flourish - B Tier
+
+![Flourish](flourish.png)
 
 Flourish is like a melee range control spell that takes a bonus action to cast. The target must make a dexterity saving throw or receive the condition off-balance for two turns. A creature that is off-balance has disadvantage on strength saving throws and the next attack against them is made with advantage.
 
 Off-balance is a mediocre condition but being able to apply it on a bonus action is great! Use this to set up a sneak attack or another, stronger weapon action.
 
-![Hamstring Shot_BG3](https://cdn.sanity.io/images/si39ve47/production/124f982e5a98f6551c71940b16ec71da1df2c8b5-150x150.png?w=150&auto=format)
 
 ### Hamstring Shot - B Tier
+
+![Hamstring Shot](hamstring_shot.png)
 
 Make a standard attack. If the attack hits you deal damage as normal, but the target must also roll a constitution saving throw. If they fail, they acquire the hamstrung condition. A hamstrung target has their movement reduced by 50%.
 
 Reducing movement by half… Who cares? Technically its useful for kiting, buts it’s a single target once per short rest, and kiting is something you need to do more frequently than that. Still, there is no reduced damage on this ability, so there is no drawback to using it. Its just a standard attack with a mediocre added effect.
 
-![Heartstopper_BG3](https://cdn.sanity.io/images/si39ve47/production/eaebe0e2be5555063d54c5f846e85c9d64fe3655-150x150.png?w=150&auto=format)
 
 ### Heartstopper - S Tier
+
+![Heartstopper](heartstopper.png)
 
 The character makes a single standard attack as an action. If the attack hits it deals damage as normal but as if your weapon has 1d4 base damage. Moreover, the target must make a constitution saving throw or receive the chest trauma condition for two turns. A target with chest trauma has disadvantage on constitution saving throws and loses their standard action.
 
 Not enough people are talking about how overpowered Heartstopper is. The enemy loses their action for two turns… TWO TURNS OF NO ACTION. If that doesn’t sound amazing to you, I won’t be able to explain it. Keep a morning-star on every martial character to use this on boss fights or big monsters.
 
-![Lacerate_BG3](https://cdn.sanity.io/images/si39ve47/production/118af1ae5793278e64da964bb2c64c8d4e02739f-150x150.png?w=150&auto=format)
 
 ### Lacerate - B Tier
+
+![Lacerate](lacerate.png)
 
 This is made as a part of a standard attack. If the attack hits the target takes damage as normal but also must make a constitution saving throw to acquire the bleeding condition for two rounds. A bleeding creature takes two slashing damage at the beginning of their turn and has disadvantage on constitution saving throws.
 
 This is one of the stronger B-tier abilities. The extra damage is meh. Constitution save disadvantage is real reason to use this. Constitution save spells (Thunderwave, Ray of Enfeeblement, Shatter, Moonbeam, etc) are not as powerful as wisdom save spells, but they can still swing a fight.
 
-![Mobile Shot_BG3](https://cdn.sanity.io/images/si39ve47/production/bf24766051b969a8d00fbac89464891788580a5b-150x150.png?w=150&auto=format)
 
 ### Mobile Shot - RP Tier
+
+![Mobile Shot](mobile_shot.png)
 
 When you use your dash action you may make a standard attack as a bonus action.
 
 This is another one that sounds good until you think it over. Its exclusive to hand crossbows, whose niche is being the dual-wield ranged weapon. Dual wielding already allows you make an attack with your bonus action. If you aren’t going to dual wield your hand crossbow then why use a hand crossbow? That is its only advantage over other crossbows. There is absolutely no use for this weapon action.
 
-![Piercing Strike_BG3](https://cdn.sanity.io/images/si39ve47/production/0971b3220ef661c5bce564b8303d5d823d128a11-150x150.png?w=150&auto=format)
-
 ### Piercing Strike/Shot - A Tier
+
+![Piercing Strike](piercing_strike.png)
 
 The character makes a single standard attack as an action. If the attack hits the target must make a constitution saving throw or receive the gaping wounds condition for two turns. A target with gaping wounds takes an additional two piercing damage when hit by an attack. Gaping wounds is removed if the target is healed.
 
@@ -156,49 +166,53 @@ This is my favorite weapon action. Not because it’s the best, but because it�
 
 The first two are really niche circumstances, but the third is actually practical. I’ve had 5 attack rounds often with a warlock. One of the most reliable ways of dealing high single target damage is with Scorching Ray because it benefits from Mystra’s Blessing, high ground bonus, the easy stealth advantage, and Circlet of Fire. With dual hand crossbows, you can set up on a target with Piercing Shot and Hex, then, next turn, blast them with Scorching Ray and two off-hand shots, each procing the bonus damage from Hex and gaping wounds, for an average of 5.5 bonus damage per hit (the full combo will average 61.5 damage assuming all attacks hit and a 16-17 dexterity).
 
-![Prepare_BG3](https://cdn.sanity.io/images/si39ve47/production/2847537ebdf13a97c8d0338c3a3b884368f972d2-150x150.png?w=150&auto=format)
-
 ### Prepare - A Tier
+
+![Prepare](prepare.png)
 
 You spend 7.5m of movement to add your strength modifier in slashing damage with your weapon till the end of your turn (i.e. it effectively doubles your strength modifier for damage).
 
 Like Piercing Strike, this ability is fun because of how you can multiply it. You multiply your strength by two, then multiply it again by the number of hits in your turn. On a Great Weapon Master build you can attack at max twice in a turn, meaning every +1 bonus to your strength modifier will do a possible +4 damage with Prepare. Its possible to have a 22 strength (18 base + 4 from potions), which is a +6 modifier, or +24 damage just from strength alone. Of course, only half of that is coming from Prepare, but you get the idea.
 
-![Pommel Strike_BG3](https://cdn.sanity.io/images/si39ve47/production/0ff2aea524aaf4dac24bc46e8f12d082277fc69d-150x150.png?w=150&auto=format)
-
 ### Pommel Strike - S Tier
+
+![Pommel Strike](pommel_strike.png)
 
 Pommel Strike makes an attack role as a bonus action. If the attack hits the target takes you strength modifier in damage and must also make a constitution saving throw or become dazed for 2 rounds.
 
 This is like a low damage Concussive Smash, but you can use it on a bonus action. That means you can inflict daze and make a Menacing Strike on the same turn without using action surge. If you do use action surge, you can Menacing Strike twice (if the first one misses). If you are in the same initiative as your wizard, you can Pommel Strike to set up his Tasha’s, and then attack for a free crit. This ability is so good you should never take a short rest before using it.
 
-![Rush Attack_BG3](https://cdn.sanity.io/images/si39ve47/production/b9de476537eada94eaed4e0ad9df166e59ad41ae-150x150.png?w=150&auto=format)
 
 ### Rush Attack - A Tier
+
+![Rush Attack](rush_attack.png)
 
 As an action you can charge 9m forward in a straight line and attack a target. If the attack hits it deals damage as normal but as if your weapon has 1d4 base damage. On a hit the target must also make a strength save or be knocked off-balance for two rounds. A creature that is off-balance has disadvantage on strength saving throws and the next attack against them is made with advantage.
 
 We discussed off-balance above when we were analyzing Flourish. Its not a great status effect, but its not bad either. The really impactful part of Rush Attack is that you get to move 9m on your action, likely doubling your movement, allowing you to close onto that pesky spell caster on their back lines. This ability does what Mobile Shot was trying to do.
 
-![Tenacity_BG3](https://cdn.sanity.io/images/si39ve47/production/b1f89da0763d8290996a7f60eb54ad08e0b6abf5-64x64.jpg?w=150&auto=format)
 
 ### Tenacity - C Tier
+
+![Tenacity](tenacity.png)
 
 If you miss an attack, you may spend your reaction to deal your strength modifier in damage anyways.
 
 The damage is low and it costs your reaction. At its best its 5 or so extra damage per short rest. Underwhelming, but technically not useless.
 
-![Topple_BG3](https://cdn.sanity.io/images/si39ve47/production/ed3cdd5e66f0dd6f7e82fc50a16bbeca04222066-150x150.png?w=150&auto=format)
-
 ### Topple - B Tier
+
+![Topple](topple.png)
+
 
 The target makes a dexterity saving throw. If they fail they are knocked prone for two rounds. A prone target has disadvantage on strength and dexterity saving throws and all attacks against the target made within 3m have advantage. A target may stand up at the cost of half of its movement.
 
 Since this is unique to staffs, its functions as an escape for your squishy caster. That is nice to have. It doesn’t require an attack role either, which really helps. This weapon action does its job.
 
-![Weakening Strike_BG3](https://cdn.sanity.io/images/si39ve47/production/b3dd1299fdff7ef7d9b03972d0e8187fe3653da6-150x150.png?w=150&auto=format)
 
 ### Weakening Strike - B Tier
+
+![Weakening Strike](weakening_strike.png)
 
 The character makes a single standard attack as an action. If the attack hits it deals damage as normal but as if your weapon has 1d4 base damage. Moreover, the target must make a strength saving throw or receive the weak grip condition for two turns. A target with weak grip has disadvantage on attack roles and strength saving throws.
 

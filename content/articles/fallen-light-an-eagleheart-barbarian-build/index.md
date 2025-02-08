@@ -3,7 +3,7 @@ title: "Fallen Light - An Eagleheart Barbarian Build for BG3"
 description: "A poetic lightning-focused Barbarian build guide featuring the Eagleheart subclass, curated items, and lore connections to the Forgotten Realms"
 slug: fallen-light-eagleheart-barbarian
 date: 2022-02-23 00:00:00+0000
-image: https://cdn.sanity.io/images/si39ve47/production/689ddf7723353a59fce740dea32c231b4a275d21-2360x1640.png?w=600&fm=webp
+image: seshtali_portrait.png 
 categories:
    - Baldur's Gate 3
    - Build Guides
