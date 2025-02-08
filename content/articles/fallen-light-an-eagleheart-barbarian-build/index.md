@@ -25,15 +25,15 @@ weight: 1
 
 # Guide Fallen Light - An Eagleheart Barbarian Build
 
-_“If thou beest she; But O how fall'n! how chang'd  
-From her, who in the happy Realms of Light  
-Cloth'd with transcendent brightness didst out-shine  
-Myriads though bright._
-
-_From what highth fall'n, so much the stronger prov'd  
-She with her lightning: and till then who knew  
-The force of those dire arms? yet not for those,  
-Nor what the potent victor in her rage can else inflict on her foes.”_
+> “If thou beest she; But O how fall'n! how chang'd  
+> From her, who in the happy Realms of Light  
+> Cloth'd with transcendent brightness didst out-shine  
+> Myriads though bright.
+>
+> From what highth fall'n, so much the stronger prov'd  
+> She with her lightning: and till then who knew  
+> The force of those dire arms? yet not for those,  
+> Nor what the potent victor in her rage can else inflict on her foes.”
 
 A new patch deserves a new build! Honestly, I’ve been testing out several new builds for the Barbarian, but this is the first one that just clicked. This build uses the new Eagleheart subclass in combination with a curated set out of items to rain lightning down from on high! And if there isn’t somewhere high to reign from, we can make our own throne.
 
@@ -118,19 +118,19 @@ I did make this build with a team in mind. For example, to reach the 39m move pe
 
 As is tradition, let’s see how this build compares to my builds in the past:
 
-![Fallen Light DPR_BG3](https://cdn.sanity.io/images/si39ve47/production/76a36dde1a1294420d10bd137de537cc4da57cc5-480x289.png?fm=webp&max-w=448)
+![Fallen Light DPR](fallen_light_dpr.png)
 
 In this graph you can see two curves, one for how it does when attacking normally and another for how it does when attacking wet targets. Its damage curve just gets better the higher AC the enemies get. In this regard its like The Brand build, only it performs better.
 
 As I noted in the build overview the Knight of Faith build also got a significant boost to DPR from casts of Create Water, so let's look at how Fallen Light compares to Knight of Faith specifically:
 
-![Fallen Light vs Knight of Faith DPR_BG3](https://cdn.sanity.io/images/si39ve47/production/5d7515ad9760642768fbc16b4445a03ca2a0e474-480x289.png?fm=webp&max-w=448)
+![Fallen Light vs Knight of Faith DPR](fallen_light_vs_knight_of_faith_dpr.png)
 
 So…. The Knight of Faith did a lot of damage with Armor of Agathys. Fallen Light has an advantage in its target selection and consistency, but is it enough of an advantage to outweigh the sheer volume of damage the Knight of Faith puts out? Probably not. It's honestly hard to judge because of how these builds function so differently. The Knight of Faith was a Juggernaut of tankiness and damage, whereas Fallen Light is all about fast attacks and gaining positional advantages through movement.
 
 My judgement right now is that Fallen Light is somewhere between The Brand and The Knight of Faith in power. In a lot of ways, it’s a better version of The Brand as far as its tactical niche goes. I think it's possible that this build could be an S-tier, but until I have more experience with its unusual tactics I will be ranking it an “A.” It is a better A-tier build than The Brand though.
 
-![Seshtali_BG3](https://cdn.sanity.io/images/si39ve47/production/56c4ca3b462a822fd0c14f7289fe694a1b4309aa-551x637.png?w=150&auto=format)
+![Seshtali](seshtali_portrait.png)
 
 ## The Character - Seshtali
 
