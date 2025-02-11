@@ -1,69 +1,96 @@
-<img align="right" width="150" alt="logo" src="https://user-images.githubusercontent.com/5889006/190859553-5b229b4f-c476-4cbd-928f-890f5265ca4c.png">
+# Aestus Guides
 
-# Hugo Theme Stack Starter Template
+A comprehensive CRPG knowledge base featuring in-depth guides, tactical analysis, and strategic insights. Built with Hugo and the Stack theme.
 
-This is a quick start template for [Hugo theme Stack](https://github.com/CaiJimmy/hugo-theme-stack). It uses [Hugo modules](https://gohugo.io/hugo-modules/) feature to load the theme.
+![Hugo](https://img.shields.io/badge/Hugo-%23FF4088.svg?style=flat&logo=hugo&logoColor=white)
+![Hugo Stack Theme](https://user-images.githubusercontent.com/5889006/190859553-5b229b4f-c476-4cbd-928f-890f5265ca4c.png)
 
-It comes with a basic theme structure and configuration. GitHub action has been set up to deploy the theme to a public GitHub page automatically. Also, there's a cron job to update the theme automatically everyday.
+## About
 
-## Get started
+Aestus Guides provides deep-dive analysis into classic and modern computer role-playing games, with a particular focus on the Baldur's Gate series and its contemporaries. Our content emphasizes advanced mechanics, system analysis, and tactical decision-making to help players master these complex games.
 
-1. Click *Use this template*, and create your repository as `<username>.github.io` on GitHub.
-![Step 1](https://user-images.githubusercontent.com/5889006/156916624-20b2a784-f3a9-4718-aa5f-ce2a436b241f.png)
+## Features
 
-2. Once the repository is created, create a GitHub codespace associated with it.
-![Create codespace](https://user-images.githubusercontent.com/5889006/156916672-43b7b6e9-4ffb-4704-b4ba-d5ca40ffcae7.png)
+- Comprehensive tactical guides
+- System mechanics analysis
+- Build optimization strategies
+- Historical CRPG perspectives
+- Regular content updates focusing on both classic and modern CRPGs
 
-3. And voila! You're ready to go. The codespace has been configured with the latest version of Hugo extended, just run `hugo server` in the terminal and see your new site in action.
+## Technical Stack
 
-4. Check `config` folder for the configuration files. You can edit them to suit your needs. Make sure to update the `baseurl` property in `config/_default/config.toml` to your site's URL.
+- **Framework**: Hugo Static Site Generator
+- **Theme**: Stack Theme (customized)
+- **Deployment**: GitHub Actions
+- **Additional Features**:
+  - Automatic theme updates via cron job
+  - Responsive design
+  - Dark/Light mode support
+  - Search functionality
+  - Category and tag organization
 
-5. Open Settings -> Pages. Change the build branch from `master` to `gh-pages`.
-![Build](https://github.com/namanh11611/hugo-theme-stack-starter/assets/16586200/12c763cd-bead-4923-b610-8788f388fcb5)
+## Local Development
 
-6. Once you're done editing the site, just commit it and push it. GitHub action will deploy the site automatically to GitHub page asociated with the repository.
-![GitHub action](https://user-images.githubusercontent.com/5889006/156916881-90b8bb9b-1925-4e60-9d7a-8026cda729bf.png)
+1. Clone the repository:
+```bash
+git clone https://github.com/yourusername/aestus-guides.git
+cd aestus-guides
+```
+
+2. Install Hugo (extended version required):
+```bash
+# Follow Hugo installation instructions for your OS
+# https://gohugo.io/installation/
+```
+
+3. Start the development server:
+```bash
+hugo server -D
+```
+
+4. View the site at `http://localhost:1313`
+
+## Configuration
+
+The site uses Hugo's configuration system. Key files:
+
+- `config.toml`: Main configuration file
+- `content/`: Directory containing all articles and guides
+- `assets/`: Custom CSS, JavaScript, and images
+- `layouts/`: Custom template overrides
+
+### Important Settings
+
+```toml
+baseurl = "https://www.aestusguides.com"
+languageCode = "en-us"
+title = "Aestus Guides - Memoirs of a CRPG Sage"
+```
+
+## Deployment
+
+The site is automatically deployed through GitHub Actions when changes are pushed to the main branch. The workflow:
+
+1. Builds the Hugo site
+2. Optimizes assets
+3. Deploys to GitHub Pages
+
+## Contributing
+
+If you'd like to contribute content or improvements:
+
+1. Fork the repository
+2. Create a feature branch
+3. Submit a Pull Request with a clear description of your changes
+
+## License
+
+[Your chosen license]
+
+## Contact
+
+[Your preferred contact method]
 
 ---
 
-In case you don't want to use GitHub codespace, you can also run this template in your local machine. **You need to install Git, Go and Hugo extended locally.**
-
-## Update theme manually
-
-Run:
-
-```bash
-hugo mod get -u github.com/CaiJimmy/hugo-theme-stack/v3
-hugo mod tidy
-```
-
-> This starter template has been configured with `v3` version of theme. Due to the limitation of Go module, once the `v4` or up version of theme is released, you need to update the theme manually. (Modifying `config/module.toml` file)
-
-## Deploy to another static page hostings
-
-If you want to build this site using another static page hosting, you need to make sure they have Go installed in the machine. 
-
-<details>
-  <summary>Vercel</summary>
-  
-You need to overwrite build command to install manually Go:
-
-```
-amazon-linux-extras install golang1.11 && hugo --gc --minify
-```
-
-![](https://user-images.githubusercontent.com/5889006/156917172-01e4d418-3469-4ffb-97e4-a905d28b8424.png)
-
-If you are using Node.js 20, you need to overwrite the install command to install manually Go:
-
-```
-dnf install -y golang
-```
-
-![image](https://github.com/zhi-yi-huang/hugo-theme-stack-starter/assets/83860323/777c1109-dfc8-4893-9db7-1305ec027cf5)
-
-
-Make sure also to specify Hugo version in the environment variable `HUGO_VERSION` (Use the latest version of Hugo extended):
-
-![Environment variable](https://user-images.githubusercontent.com/5889006/156917212-afb7c70d-ab85-480f-8288-b15781a462c0.png)
-</details>
+*"Every roll matters." - Aestus Guides*
