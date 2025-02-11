@@ -24,6 +24,7 @@ toc: true
 draft: false
 weight: 1
 ---
+
 # Guide Baldur's Gate 3 Weapons Tier List
 
 Patch 7 is live! I am releasing this tier list while my game is updating, so all of this information is already outdated. Nevertheless, I want you all to have it for your Patch 7 runs! I will be updating it to include any new weapons that have been added as quickly as I can, so check in again in a few days!

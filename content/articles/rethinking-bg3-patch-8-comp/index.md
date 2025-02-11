@@ -21,8 +21,6 @@ weight: 1
 
 # Rethinking my BG3 Patch 8 Comp
 
-*Posted 5 days ago*
-
 Testers of Patch 8 are reporting their findings on the new content, and now that I've seen a little clearer how Larian is implementing these features I've decided to plan out a new composition.
 
 ## Initial Changes
@@ -48,11 +46,13 @@ As far as I can tell, which element is selected for the omen is random, but this
 ### Class Dip Explanations
 
 #### Death Cleric
+
 The Death Domain gets the Reaper feature at level 1. Necromancy cantrips now hit two targets instead of one, effectively doubling their value. Two new and interesting necromancy cantrips have also been added to support this feature: Bursting Sinew and Toll the Dead. Both look good, but I still think just using Bone Chill should be the most effective, due to its synergy with the Boots of Stormy Clamour and the Spineshudder Amulet. Now with just a single level dip we get a decent DPR strategy and a highly efficient way to spread Reverberation. The hound's Ominous Bite require a con save to land the omen, so spreading Reverberation is essential for us anyways.
 
 It also raises an interesting question, what is the interaction between Twin Spell and this new Reaper feature? Does each fork of the Twin Spell fork again with Reaper? If so, that is 4 spell attack on a single action with the low cost of 1 sorcery point (we'll just get it back with our goodest boi summon). We can't know until we test it, but even if it doesn't work we can still get 4 spell attacks per round with Quicken Spell. It will cost an extra bonus action and 3 sorcery points instead of 1, but still really good! And what if we cast Haste on ourselves? We're up to 6 Bone Chills, maybe more. Elixir of Bloodlust? Who knows where we are at now, but it's a lot!
 
 #### Necromancy Wizard
+
 If we're going to be throwing Bone Chills like a boxer throws hands, an Act 3 Staff of Cherished Necromancy seems like an easy choice for our weapon. Once we get it, every Bone Chill kill will give us charge to use a max upcasted Inflict Wounds. This is the point where the 2 level dip into wizard starts making sense. Grim Harvest scales with spell level, not wizard level. If we finish a target with Inflict Wounds, that's 18 health. It will add up.
 
 Honestly, the wizard levels are probably not worth it, since we're losing 6th level spells on the sorc, and that means Globe of Invulnerability (remember, I ban the wizard scribe scroll exploit). Grim Harvest isn't that important, I just loved the idea of being a sorcerer/wizard/cleric all in one build. Wizard also lets us get Shovel in Act 1, and what's a Dark Lord without his sinister devil sidekick?
@@ -62,12 +62,15 @@ Honestly, the wizard levels are probably not worth it, since we're losing 6th le
 After planning Voldemort it was irresistible to build the rest of the squad to be an evil Darkness comp.
 
 ### Modified Crown Paladin/Hexblade
+
 For the Oath of the Crown/Hexblade build, I put one extra level in Hexblade to get the Devil Sight Invocation. I also swapped out Luminous Armor for the Dark Justiciar drip and made the unit Shadowheart instead of a hireling.
 
 ### Evil Bladesinger
+
 For the Bladesinger I just swapped in the Eversight Ring (again, for the Darkness immunity) and made the unit Astarion. Evil comps need a vampire.
 
 ### Goth Beastmaster
+
 The last unit might surprise you! I opted for a Beastmaster ranger and use the raven companion. Ravens are obviously super goth, so... But they're also just overlooked as part of Darkness comps. At high levels, the raven creates darkness clouds every time it flies, completely action economy and spell slot free. Ravens are also immune to blindness, so they fit right in.
 
 Another interesting advantage of late game raven companions is that they can summon more ravens at-will. This allows you to create a lot of expendable ravens. Each raven also does piercing damage, which we can double with Bhallists Armor. It adds up to a lot of damage.

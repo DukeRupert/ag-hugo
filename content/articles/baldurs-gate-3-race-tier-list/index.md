@@ -16,7 +16,10 @@ tags:
    - Gaming Guide
 weight: 1
 ---
+
 # Guide Baldur's Gate 3 Race Tier List
+
+{{< youtube "nqgcy5yV6V4" >}}
 
 Here is my Baldur's Gate 3 Race Tier List! If you've watched my [Youtube video](https://youtu.be/nqgcy5yV6V4) on this subject, this article is the reference sheet for that. Any changes in my opinions will be reflected in this article, which is to say it represents my up to date opinion on race rankings. I hope you enjoy it.
 
