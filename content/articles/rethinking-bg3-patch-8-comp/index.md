@@ -1,5 +1,5 @@
 ---
-draft = true
+draft: true
 title: "Rethinking my BG3 Patch 8 Comp"
 description: "A detailed analysis of a Dark Urge-focused party composition in Baldur's Gate 3 Patch 8, featuring Shadow Sorcerer, Death Cleric, and Necromancy Wizard multiclass build"
 slug: rethinking-bg3-patch-8-comp

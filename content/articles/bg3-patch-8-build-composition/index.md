@@ -1,5 +1,5 @@
 ---
-draft = true
+draft: true
 title: "My Build Composition for BG3 Patch 8"
 description: "A detailed analysis of an optimized party composition for Baldur's Gate 3 Patch 8, featuring Giants Barbarian, Crown Paladin, Bladesinger Wizard, and Land Druid builds with connections to the original Baldur's Gate series"
 slug: bg3-patch-8-build-composition
