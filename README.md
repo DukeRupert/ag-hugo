@@ -3,7 +3,7 @@
 A comprehensive CRPG knowledge base featuring in-depth guides, tactical analysis, and strategic insights. Built with Hugo and the Stack theme.
 
 ![Hugo](https://img.shields.io/badge/Hugo-%23FF4088.svg?style=flat&logo=hugo&logoColor=white)
-![Hugo Stack Theme](https://user-images.githubusercontent.com/5889006/190859553-5b229b4f-c476-4cbd-928f-890f5265ca4c.png)
+![Hugo Stack Theme](https://github.com/CaiJimmy/hugo-theme-stack)
 
 ## About
 
