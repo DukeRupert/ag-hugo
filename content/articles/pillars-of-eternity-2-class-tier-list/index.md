@@ -3,7 +3,7 @@ title: "Pillars of Eternity II: Deadfire Class Tier List"
 description: "A comprehensive analysis of all classes in Pillars of Eternity II: Deadfire, featuring insights from expert player Thelee"
 slug: pillars-of-eternity-2-class-tier-list
 date: 2024-07-20 00:00:00+0000
-image: deadfire_classes.png
+image: pillars-of-eternity-2-class-tier-list.jpg
 categories:
    - Gaming
    - Pillars of Eternity
