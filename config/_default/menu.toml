@@ -14,3 +14,11 @@ url = "https://www.youtube.com/channel/UCs0WWs6-v6R1nQFZIW3iwSQ"
 
 [social.params]
 icon = "brand-youtube"
+
+[[social]]
+identifier = "patreon"
+name = "Patreon"
+url = "https://www.patreon.com/user?u=52365991"
+
+[social.params]
+icon = "brand-patreon"
