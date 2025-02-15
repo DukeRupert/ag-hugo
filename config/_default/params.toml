@@ -6,7 +6,7 @@ favicon = "/favicon.png"
 
 [footer]
 since = 2020
-customText = ""
+customText = "Website by <a href='https://fireflysoftware.dev' target='_blank' style='color:#1072b9;'>Firefly Software</a></p>"
 
 [dateFormat]
 published = "Jan 02, 2006"
